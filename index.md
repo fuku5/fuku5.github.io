@@ -19,6 +19,10 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 - 2017 Apr. - 2019 Mar. **Teaching Assistant**, Keio University, Japan.
 - 2016 Apr. - 2019 Mar. **Collaborative Researcher**, Dwango artificial intelligence laboratory.
 
+## Membership
+- 2017 - The Japanese Society for Artificial Intelligence
+
+
 ## Publications
 ### Conferences (Refereed)
 1. Yosuke Fukuchi, Yusuke Takimoto, Michita Imai,
