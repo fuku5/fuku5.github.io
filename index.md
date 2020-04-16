@@ -27,7 +27,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 ### Conferences (Refereed)
 1. Yosuke Fukuchi, Yusuke Takimoto, Michita Imai,
 "Adaptive Enhancement of Swipe Manipulations on Touch Screens with Content-awareness",
-Proceedings of the 12th International Conference on Agents and Artificial Intelligence,2,429-436,2020 [PDF](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/89178)
+Proceedings of the 12th International Conference on Agents and Artificial Intelligence,2,429-436,2020 [PDF](https://www.scitepress.org/PublicationsDetail.aspx?ID=9aaF+t4mXPE=&t=1)
 1. Shoya Matsumori, Yosuke Fukuchi, Masahiko Osawa, Michita Imai
 "Do Others Believe What I Believe? Estimating How Much Information is being Shared by Utterance Timing"
 6th International Conference on Human-Agent Interaction,301-309,2018
