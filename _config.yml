@@ -1,3 +1,5 @@
 url: "https://fuku5.github.io"
+theme: jekyll-theme-primer
 plugins:
  - jekyll-sitemap
+
