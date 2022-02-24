@@ -4,7 +4,6 @@ from pathlib import Path
 import mybib
 
 publications = mybib.load()
-#print(publications)
 
 paths = Path('_templates').glob('*.md')
 
