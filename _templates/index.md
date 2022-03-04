@@ -1,4 +1,11 @@
-# Fukuchi, Yosuke  <span style="font-size: 0.5em;">(福地 庸介)</span>
+<div class="clearfix" style="height: 100px;">
+<h1 style="float: left;"> Fukuchi, Yosuke  <span style="font-size: 0.5em;">(福地 庸介)</span></h1>
+<div style="float: right;">
+[Google Scholar]("https://scholar.google.co.jp/citations?user=If95M5sAAAAJ")
+[ORCID]("https://orcid.org/my-orcid?orcid=0000-0002-7514-9040")
+</div>
+</div>
+
 <div style="text-align: right;">
 Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & Technology, Keio University<br>
 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
