@@ -1,8 +1,8 @@
 <div class="clearfix" style="height: 100px;">
 <h1 style="float: left;"> Fukuchi, Yosuke  <span style="font-size: 0.5em;">(福地 庸介)</span></h1>
 <div style="float: right;">
-[Google Scholar]("https://scholar.google.co.jp/citations?user=If95M5sAAAAJ")
-[ORCID]("https://orcid.org/my-orcid?orcid=0000-0002-7514-9040")
+<a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
+<a href="https://orcid.org/my-orcid?orcid=0000-0002-7514-9040">[ORCID]</a>
 </div>
 </div>
 
