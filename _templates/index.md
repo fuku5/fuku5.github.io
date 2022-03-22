@@ -36,7 +36,9 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 ### Journal
 1. \cite{10.3389/frobt.2022.783863}
 
+
 ### Conferences (Refereed)
+1. \cite{10.1145/3490099.3511116}
 1. \cite{10.1145/3472307.3484668}
 1. \cite{Yoshino_2021}
 1. \cite{Matsumori_2021_ICCV}

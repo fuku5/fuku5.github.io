@@ -74,3 +74,21 @@ series = {HAI '21}
   biburl    = {https://dblp.org/rec/conf/hai/MatsumoriFOI18.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+
+@inproceedings{10.1145/3490099.3511116,
+author = {Shibata, Ryoichi and Matsumori, Shoya and Fukuchi, Yosuke and Maekawa, Tomoyuki and Kimoto, Mitsuhiko and Imai, Michita},
+title = {Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue},
+year = {2022},
+isbn = {9781450391443},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3490099.3511116},
+doi = {10.1145/3490099.3511116},
+abstract = {In this work, we present a system that sequentially generates advertisements within the context of a dialogue. Advertisements tailored to the user have long been displayed on the digital signage in stores, on web pages, and on smartphone applications. Advertisements will work more effectively if they are aware of the context of the dialogue between the users. Creating an advertising sentence as a query and searching the web by using that query is one way to present a variety of advertisements, but there is currently no method to create an appropriate search query for the search in accordance with the dialogue context. Therefore, we developed a method called the Conversational Context-sensitive Advertisement generator (CoCoA). The novelty of CoCoA is that advertisers simply need to prepare a few abstract phrases, called Core-Queries, and then CoCoA dynamically transforms the Core-Queries into complete search queries in accordance with the dialogue context. Here, “transforms” means to add words related to the context in the dialogue to the prepared Core-Queries. The transformation is enabled by a masked word prediction technique that predicts a word that is hidden in a sentence. Our attempt is the first to apply masked word prediction to a web information retrieval framework that takes into account the dialogue context. We asked users to evaluate the search query presented by CoCoA against the dialogue text of multiple domains prepared in advance and found that CoCoA could present more contextual and effective advertisements than Google Suggest or a method without the query transformation. In addition, we found that CoCoA generated high-quality advertisements that advertisers had not expected when they created the Core-Queries.},
+booktitle = {27th International Conference on Intelligent User Interfaces},
+pages = {734–745},
+numpages = {12},
+keywords = {context, query generation, advertisement, mask prediction, dialogue},
+location = {Helsinki, Finland},
+series = {IUI '22}
+}
