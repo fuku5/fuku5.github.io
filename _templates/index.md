@@ -10,7 +10,7 @@
 Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & Technology, Keio University<br>
 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
 Email: fukuchi (at) ailab.ics.keio.ac.jp 
-(Last updated: 2022/2/23)
+(Last updated: {{  today  }})
 </div>
 
 ## Current Positions

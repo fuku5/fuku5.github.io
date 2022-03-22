@@ -1,3 +1,4 @@
+import datetime
 import re
 from pathlib import Path
 
@@ -12,6 +13,7 @@ for path in paths:
     data = '<!-- DON\'T EDIT THIS FILE -->\n' \
             + '<!-- EDIT templates/index.md and run make.py -->\n' \
             + data
+    data = data.replace('{{  today  }}', datetime.date.today().strftime('%Y/%m/%d'))
     for tag in re.findall(r'\\cite{.*}', data):
         bib_id = re.search(r'cite{(.*)}', data).group(1)
         data = data.replace(tag, publications[bib_id])
