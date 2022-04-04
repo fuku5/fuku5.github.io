@@ -14,10 +14,11 @@ Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & T
 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
 Email: fukuchi (at) ailab.ics.keio.ac.jp 
 -->
-Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.
-Email: fukuchi (at) nii.ac.jp 
+Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
+Email: fukuchi (at) nii.ac.jp <br>
 (Last updated: 2022/04/04)
 </div>
+
 
 
 ## Current Positions
@@ -63,5 +64,6 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. Yosuke Fukuchi, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Bayesian Inference of Self-intention Attributed by Observer",  Proceedings of the 6th International Conference on Human-Agent Interaction , {ACM} 2018. doi: <a href="https://doi.org/10.1145%2F3284432.3284438">10.1145/3284432.3284438</a>
 1. Yosuke Fukuchi, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Application of Instruction-Based Behavior Explanation to a Reinforcement Learning Agent with Changing Policy",  Neural Information Processing , p. 100--108, Springer International Publishing 2017. doi: <a href="https://doi.org/10.1007%2F978-3-319-70087-8_11">10.1007/978-3-319-70087-8_11</a>
 1. Yosuke Fukuchi, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",  Proceedings of the 5th International Conference on Human Agent Interaction , {ACM} 2017. doi: <a href="https://doi.org/10.1145%2F3125739.3125746">10.1145/3125739.3125746</a>
+
 
 

@@ -12,10 +12,11 @@ Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & T
 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
 Email: fukuchi (at) ailab.ics.keio.ac.jp 
 -->
-Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.
-Email: fukuchi (at) nii.ac.jp 
+Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
+Email: fukuchi (at) nii.ac.jp <br>
 (Last updated: {{  today  }})
 </div>
+
 
 
 ## Current Positions
@@ -59,5 +60,6 @@ Email: fukuchi (at) nii.ac.jp
 1. \cite{Fukuchi_2018}
 1. \cite{Fukuchi_2017iconip}
 1. \cite{Fukuchi_2017}
+
 
 
