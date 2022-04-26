@@ -12,4 +12,4 @@ bibtexparser = "==1.2.0"
 python_version = "3.8"
 
 [scripts]
-make = "python3 make.py"
+update = "bash -c 'python3 make.py && git add *.md && git commit -m page_update && git push'"
