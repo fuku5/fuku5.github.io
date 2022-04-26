@@ -1,5 +1,5 @@
 <!-- DON'T EDIT THIS FILE -->
-<!-- EDIT templates/index.md and run make.py -->
+<!-- EDIT index.md and run make.py -->
 <div class="clearfix" style="height: 100px;">
 <h1 style="float: left;"> Fukuchi, Yosuke  <span style="font-size: 0.5em;">(福地 庸介)</span></h1>
 <div style="float: right;">
@@ -16,7 +16,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/04/04)
+(Last updated: 2022/04/26)
 </div>
 
 
