@@ -1,7 +1,7 @@
 <!-- DON'T EDIT THIS FILE -->
 <!-- EDIT index.md and run make.py -->
 <div class="clearfix" style="height: 100px;">
-<h1 style="float: left;"> Fukuchi, Yosuke  <span style="font-size: 0.5em;">(福地 庸介)</span></h1>
+<h1 style="float: left;"> Fukuchi, Yosuke</h1>
 <div style="float: right;">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
@@ -88,4 +88,5 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Others
 1. 福地 庸介, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
 
