@@ -82,6 +82,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{fukuchi2017_2}
 1. \cite{fukuchi2017}
 
-## Others
+### Others
 1. \cite{20192019}
 
