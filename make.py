@@ -18,7 +18,7 @@ for path in paths:
             + data
     data = data.replace('{{  today  }}', datetime.date.today().strftime('%Y/%m/%d'))
     for tag in re.findall(r'\\cite{.*}', data):
-        bib_id = re.search(r'cite{(.*)}', data).group(1)
+        bib_id = re.search(r'\\cite{(.*)}', tag).group(1)
         data = data.replace(tag, publications[bib_id])
 
     print('load {}'.format(path))
