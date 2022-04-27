@@ -62,4 +62,26 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{Fukuchi_2017}
 
 
+### Domestic conferences
+1. \cite{tsuchiya2021}
+1. \cite{maekawa2021}
+1. \cite{uchiumi2021}
+1. \cite{1573668927856247424}
+1. \cite{1572824502926346240}
+1. \cite{1574231877809662848}
+1. \cite{takarada2020}
+1. \cite{yoshino2020scake}
+1. \cite{hongo2020}
+1. \cite{shingyo2020}
+1. \cite{satogata2020q}
+1. \cite{takarada2019}
+1. \cite{satogata2019}
+1. \cite{matsumori2018}
+1. \cite{fukuchi2018}
+1. \cite{fukuchi2017_3}
+1. \cite{fukuchi2017_2}
+1. \cite{fukuchi2017}
+
+## Others
+1. \cite{20192019}
 
