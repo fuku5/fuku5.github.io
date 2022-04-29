@@ -79,6 +79,9 @@ def to_text(record):
         title=title,
         booktitle=booktitle,
         )
+    my_name_pattern = re.compile('(Yosuke Fukuchi|Fukuchi, Yosuke|福地庸介|福地 庸介)')
+    rtn = my_name_pattern.sub('<span class="underdot">\\1</span>', rtn)
+
     if 'volume' in record:
         rtn += ', vol. {}'.format(record['volume'])
     if 'pages' in record:
