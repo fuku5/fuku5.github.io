@@ -6,7 +6,7 @@ import mybib
 
 publications = mybib.load()
 
-paths = Path().glob('*.md')
+paths = Path().glob('templates/*.md')
 
 for path in paths:
     if path.name == 'README.md':
