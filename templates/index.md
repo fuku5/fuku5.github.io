@@ -46,6 +46,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
+1. \cite{9777698}
 1. \cite{10.3389/frobt.2022.783863}
 
 
