@@ -1,8 +1,10 @@
-<div class="clearfix" style="height: 100px;">
-<h1 style="float: left;"> Fukuchi, Yosuke</h1>
+<div id="header" class="clearfix">
+<h1 style="float: left; border-style: none;"> Fukuchi, Yosuke</h1>
 <div style="float: right;">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
+<br>
+<img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=If95M5sAAAAJ&citpid=3" height="128" width="108">
 </div>
 </div>
 
