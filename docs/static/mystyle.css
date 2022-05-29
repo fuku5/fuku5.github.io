@@ -5,4 +5,9 @@ span.underdot {
 div#header  {
   border-bottom: 1px solid #eaecef;
   height: 140px;
+  position: relative;
+}
+div#header h1 {
+	position: absolute;
+	bottom: 0;
 }
