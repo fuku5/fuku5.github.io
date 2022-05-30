@@ -1,8 +1,8 @@
 <!-- DON'T EDIT THIS FILE -->
 <!-- EDIT index.md and run make.py -->
 <div id="header" class="clearfix">
-<h1 style="float: left; border-style: none;"> Fukuchi, Yosuke</h1>
-<div style="float: right;">
+<h1 id="my_name"> Fukuchi, Yosuke</h1>
+<div id="header_right">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
 <br>
@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/05/29)
+(Last updated: 2022/05/30)
 </div>
 
 
