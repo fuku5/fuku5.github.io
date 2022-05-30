@@ -3,18 +3,17 @@ span.underdot {
 }
 
 div#header  {
-  border-bottom: 1px solid #eaecef;
-  height: 150px;
-  position: relative;
+	border-bottom: 1px solid #eaecef;
+	position: relative;
 }
 div#header h1#my_name {
 	position: absolute;
 	bottom: 0;
-  float: left;
-  border-style: none;
+	float: left;
+	border-style: none;
 }
 
 div#header #header_right {
-  float: right;
-  text-align: right;
+    float: right;
+    text-align: right;
 }
