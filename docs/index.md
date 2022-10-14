@@ -18,13 +18,15 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/05/30)
+(Last updated: 2022/10/14)
 </div>
 
 
 
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
+- 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
+
 
 ## Education
 - 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -50,8 +52,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
+1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. , p. 1--13 2022.
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Explaining Intelligent Agent's Future Motion on Basis of Vocabulary Learning With Human Goal Inference",  IEEE Access , vol. 10, p. 54336--54347 2022. doi: <a href="https://ieeexplore.ieee.org/document/9777698">10.1109/ACCESS.2022.3176104</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Conveying Intention by Motions With Awareness of Information Asymmetry",  Frontiers in Robotics and AI , vol. 9 2022. doi: <a href="https://www.frontiersin.org/article/10.3389/frobt.2022.783863">10.3389/frobt.2022.783863</a>
+
 
 
 ### Conferences (Refereed)
@@ -91,5 +95,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
+
 
 
