@@ -23,6 +23,8 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
+- 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
+
 
 ## Education
 - 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -48,8 +50,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
+1. \cite{9903483}
 1. \cite{9777698}
 1. \cite{10.3389/frobt.2022.783863}
+
 
 
 ### Conferences (Refereed)
@@ -64,6 +68,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{Fukuchi_2017iconip}
 1. \cite{Fukuchi_2017}
 
+### Arxiv
+1. \cite{https://doi.org/10.48550/arxiv.2206.11813}
+1. \cite{https://doi.org/10.48550/arxiv.2205.07202}
+1. \cite{https://doi.org/10.48550/arxiv.2005.14662}
 
 ### Domestic conferences
 1. \cite{tsuchiya2021}
@@ -85,7 +93,11 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{fukuchi2017_2}
 1. \cite{fukuchi2017}
 
+
 ### Others
 1. \cite{20192019}
+
+
+
 
 

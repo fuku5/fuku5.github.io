@@ -66,9 +66,12 @@ def to_text(record):
     else:
         author = record['author'][0]
     title = record['title']
-    assert 'booktitle' in record or 'journal' in record
-    booktitle = \
-            record['booktitle'] if 'booktitle' in record else record['journal']['name']
+    if 'booktitle' in record:
+        booktitle = record['booktitle']
+    elif 'journal' in record:
+        booktitle = record['journal']['name']
+    else:
+        booktitle = ''
 
     rtn = textwrap.dedent('''\
     {author}, 

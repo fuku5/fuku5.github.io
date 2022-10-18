@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/10/14)
+(Last updated: 2022/10/18)
 </div>
 
 
@@ -72,6 +72,10 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Application of Instruction-Based Behavior Explanation to a Reinforcement Learning Agent with Changing Policy",  Neural Information Processing , p. 100--108, Springer International Publishing 2017. doi: <a href="https://doi.org/10.1007%2F978-3-319-70087-8_11">10.1007/978-3-319-70087-8_11</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",  Proceedings of the 5th International Conference on Human Agent Interaction , {ACM} 2017. doi: <a href="https://doi.org/10.1145%2F3125739.3125746">10.1145/3125739.3125746</a>
 
+### Preprints
+1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
+1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Mask and Cloze: Automatic Open Cloze Question Generation using a Masked Language Model",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2205.07202">10.48550/ARXIV.2205.07202</a>
+1. Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences",   , arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a>
 
 ### Domestic conferences
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "アクショングラフを用いた 「位置情報と発話内容をもとにした」 信念と欲求の推定システム",  電子情報通信学会技術研究報告; 信学技報 , 電子情報通信学会 2021.
@@ -93,8 +97,11 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">福地 庸介</span>, 大澤 正彦, 岨野 太一, 山川 宏, and 今井 倫太,  "深層強化学習エージェントの自己モデル獲得と行動目標説明表現の生成",  人工知能学会第二種研究会資料 , vol. 2017, p. 08 2017.
 1.  <span class="underdot">福地庸介</span>,  大澤正彦,  岨野太一,  山川宏, and  今井倫太,  "深層強化学習エージェントの自己モデルによる意図の解釈",  第 79 回全国大会講演論文集 , vol. 2017, p. 655--656 2017.
 
+
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
+
 
 
 
