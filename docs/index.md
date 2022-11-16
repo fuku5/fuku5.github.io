@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/10/18)
+(Last updated: 2022/11/16)
 </div>
 
 
@@ -52,7 +52,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
-1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. , p. 1--13 2022.
+1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. 52, p. 1090--1102 2022.
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Explaining Intelligent Agent's Future Motion on Basis of Vocabulary Learning With Human Goal Inference",  IEEE Access , vol. 10, p. 54336--54347 2022. doi: <a href="https://ieeexplore.ieee.org/document/9777698">10.1109/ACCESS.2022.3176104</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Conveying Intention by Motions With Awareness of Information Asymmetry",  Frontiers in Robotics and AI , vol. 9 2022. doi: <a href="https://www.frontiersin.org/article/10.3389/frobt.2022.783863">10.3389/frobt.2022.783863</a>
 
