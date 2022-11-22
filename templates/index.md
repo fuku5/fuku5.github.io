@@ -68,12 +68,15 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{Fukuchi_2017iconip}
 1. \cite{Fukuchi_2017}
 
-### Arxiv
+### Preprints
 1. \cite{https://doi.org/10.48550/arxiv.2206.11813}
 1. \cite{https://doi.org/10.48550/arxiv.2205.07202}
 1. \cite{https://doi.org/10.48550/arxiv.2005.14662}
 
 ### Domestic conferences
+1. \cite{sm2022}
+1. \cite{hasegawa2022advantage}
+1. \cite{tsuchiya2022}
 1. \cite{tsuchiya2021}
 1. \cite{maekawa2021}
 1. \cite{uchiumi2021}
@@ -94,8 +97,11 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{fukuchi2017}
 
 
+
 ### Others
 1. \cite{20192019}
+
+
 
 
 
