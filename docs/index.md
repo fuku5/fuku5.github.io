@@ -79,8 +79,8 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Domestic conferences
 1. 松森 匠哉, 奥岡 耕平, 柴田 遼一, 井上 南, 吉野 哲平, <span class="underdot">福地 庸介</span>, 岩沢 透, and 今井 倫太,  "マスク言語モデルを利用したOpen Cloze問題の自動生成",  人工知能学会全国大会論文集 , vol. JSAI2022, p. 3N4GS1004--3N4GS1004 2022.
-1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平,  今井倫太, and  others,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
-1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹,  今井倫太, and  others,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
+1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平, and  今井倫太,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
+1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "アクショングラフを用いた 「位置情報と発話内容をもとにした」 信念と欲求の推定システム",  電子情報通信学会技術研究報告; 信学技報 , 電子情報通信学会 2021.
 1. 前川 知行, 松森 匠哉, <span class="underdot">福地 庸介</span>, and 今井 倫太,  "文脈の中で相互理解感を形作る推薦対話システム",  日本認知科学会第38回大会 , p. 40--46 2021.
 1. 内海 佑麻, <span class="underdot">福地 庸介</span>, 木本 充彦, and 今井 倫太,  "曖昧性解消における視覚的注意へのトップダウン介入",  人工知能学会全国大会論文集 , vol. JSAI2021, p. 1H2GS1a04--1H2GS1a04 2021.
@@ -102,10 +102,8 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 
 
-
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
-
 
 
 
