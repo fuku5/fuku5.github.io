@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2022/11/22)
+(Last updated: 2022/12/11)
 </div>
 
 
@@ -59,6 +59,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Conferences (Refereed)
+1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function",  Proceedings of the 10th International Conference on Human-Agent Interaction , p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Best paper award)
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai,  "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue",  27th International Conference on Intelligent User Interfaces , p. 734--745, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3490099.3511116">10.1145/3490099.3511116</a>
 1. Yuta Watanabe, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Shoya Matsumori, and Michita Imai,  "Inferring Human Beliefs and Desires from Their Actions and the Content of Their Utterances",  Proceedings of the 9th International Conference on Human-Agent Interaction , p. 391--395, Association for Computing Machinery 2021. doi: <a href="https://doi.org/10.1145/3472307.3484668">10.1145/3472307.3484668</a>
 1. Teppei Yoshino, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Simultaneous Contextualization and Interpretation with Keyword Awareness",  Artificial Intelligence and Soft Computing , p. 403--413, Springer International Publishing 2021. doi: <a href="https://doi.org/10.1007%2F978-3-030-87897-9_36">10.1007/978-3-030-87897-9_36</a>
@@ -71,6 +72,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Bayesian Inference of Self-intention Attributed by Observer",  Proceedings of the 6th International Conference on Human-Agent Interaction , {ACM} 2018. doi: <a href="https://doi.org/10.1145%2F3284432.3284438">10.1145/3284432.3284438</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Application of Instruction-Based Behavior Explanation to a Reinforcement Learning Agent with Changing Policy",  Neural Information Processing , p. 100--108, Springer International Publishing 2017. doi: <a href="https://doi.org/10.1007%2F978-3-319-70087-8_11">10.1007/978-3-319-70087-8_11</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",  Proceedings of the 5th International Conference on Human Agent Interaction , {ACM} 2017. doi: <a href="https://doi.org/10.1145%2F3125739.3125746">10.1145/3125739.3125746</a>
+
 
 ### Preprints
 1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
@@ -104,6 +106,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
 
 
 
