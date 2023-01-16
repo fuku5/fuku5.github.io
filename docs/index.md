@@ -26,7 +26,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 ## Research Interests
 - Human-AI interaction, computational communication methods for
   - mind-aware communication
-  - 
   - human trust/reliance adjustment
   - applying AI systems to intelligent user interfaces
 
