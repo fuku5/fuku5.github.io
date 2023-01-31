@@ -18,16 +18,17 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/01/16)
+(Last updated: 2023/01/31)
 </div>
 
 
 
 ## Research Interests
-- Human-AI interaction, computational communication methods for
+- Human-AI interaction. Specifically, computational modeling of interaction for
   - mind-aware communication
   - human trust/reliance adjustment
   - applying AI systems to intelligent user interfaces
+
 
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
@@ -47,10 +48,11 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2016 Apr. - 2019 Mar. **Collaborative Researcher**, Dwango artificial intelligence laboratory.
 
 ## Membership
-- 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
+- 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
 <!--
+
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
@@ -60,9 +62,11 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
+1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Mask and Cloze: Automatic Open Cloze Question Generation using a Masked Language Model",  IEEE Access , vol. , p. 1--1 2023.
 1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. 52, p. 1090--1102 2022.
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Explaining Intelligent Agent's Future Motion on Basis of Vocabulary Learning With Human Goal Inference",  IEEE Access , vol. 10, p. 54336--54347 2022. doi: <a href="https://ieeexplore.ieee.org/document/9777698">10.1109/ACCESS.2022.3176104</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Conveying Intention by Motions With Awareness of Information Asymmetry",  Frontiers in Robotics and AI , vol. 9 2022. doi: <a href="https://www.frontiersin.org/article/10.3389/frobt.2022.783863">10.3389/frobt.2022.783863</a>
+
 
 
 
@@ -115,6 +119,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
 
 
 
