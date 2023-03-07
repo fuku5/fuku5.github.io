@@ -18,27 +18,21 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/02/17)
+(Last updated: 2023/03/07)
 </div>
 
 
 
+
 ## Research Interests
-- Human-AI interaction. Specifically, computational modeling of interaction for
+- Human-AI interaction. Computational models of interaction for
   - mind-aware communication
   - human trust/reliance adjustment
   - applying AI systems to intelligent user interfaces
 
-
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
-
-
-## Education
-- 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
-- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
-- 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
 
 ## Professional Experience
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -47,26 +41,31 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2017 Apr. - 2019 Mar. **Teaching Assistant**, Keio University, Japan.
 - 2016 Apr. - 2019 Mar. **Collaborative Researcher**, Dwango artificial intelligence laboratory.
 
+## Education
+- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan.
+- 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
+- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
+- 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
+
 ## Membership
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
 - 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
 <!--
-
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
-## Activities
-- 2022 Dec. Organized a workshop (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 
+## Activities
+- 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 
 ## Publications
 ### Journal
-1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model",  IEEE Access , vol. 11, p. 9835--9850 2023.
-1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. 52, p. 1090--1102 2022.
+1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai,  "Conversational Context-Sensitive Ad Generation With a Few Core-Queries",  ACM Transactions on Interactive Intelligent Systems (TiiS)  2023. (accepted)
+1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model",  IEEE Access , vol. 11, p. 9835--9850 2023. doi: <a href="https://ieeexplore.ieee.org/document/10024779">10.1109/ACCESS.2023.3239005</a>
+1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. 52, p. 1090--1102 2022. doi: <a href="https://ieeexplore.ieee.org/document/9903483">10.1109/THMS.2022.3207372</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Explaining Intelligent Agent's Future Motion on Basis of Vocabulary Learning With Human Goal Inference",  IEEE Access , vol. 10, p. 54336--54347 2022. doi: <a href="https://ieeexplore.ieee.org/document/9777698">10.1109/ACCESS.2022.3176104</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Conveying Intention by Motions With Awareness of Information Asymmetry",  Frontiers in Robotics and AI , vol. 9 2022. doi: <a href="https://www.frontiersin.org/article/10.3389/frobt.2022.783863">10.3389/frobt.2022.783863</a>
-
 
 
 
@@ -86,13 +85,14 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",  Proceedings of the 5th International Conference on Human Agent Interaction , {ACM} 2017. doi: <a href="https://doi.org/10.1145%2F3125739.3125746">10.1145/3125739.3125746</a>
 
 
-
 ### Preprints
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada,  "Selectively Providing Reliance Calibration Cues With Reliance Prediction",   , arXiv 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a>
 1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
-1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Mask and Cloze: Automatic Open Cloze Question Generation using a Masked Language Model",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2205.07202">10.48550/ARXIV.2205.07202</a>
 1. Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences",   , arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a>
 
+
 ### Domestic conferences
+1.  <span class="underdot">福地庸介</span>, and  山田誠二,  "",  HAIシンポジウム2023  2023. (<strong>HAI-researcher Encouragement Award</strong>)
 1. 松森 匠哉, 奥岡 耕平, 柴田 遼一, 井上 南, 吉野 哲平, <span class="underdot">福地 庸介</span>, 岩沢 透, and 今井 倫太,  "マスク言語モデルを利用したOpen Cloze問題の自動生成",  人工知能学会全国大会論文集 , vol. JSAI2022, p. 3N4GS1004--3N4GS1004 2022.
 1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平, and  今井倫太,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
@@ -116,20 +116,12 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1.  <span class="underdot">福地庸介</span>,  大澤正彦,  岨野太一,  山川宏, and  今井倫太,  "深層強化学習エージェントの自己モデルによる意図の解釈",  第 79 回全国大会講演論文集 , vol. 2017, p. 655--656 2017.
 
 
-
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+
+
 
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
-
-
-
-
-
-
-
-
-
 

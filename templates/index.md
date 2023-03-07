@@ -21,15 +21,16 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 
+
+## Research Interests
+- Human-AI interaction. Computational models of interaction for
+  - mind-aware communication
+  - human trust/reliance adjustment
+  - applying AI systems to intelligent user interfaces
+
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
-
-
-## Education
-- 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
-- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
-- 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
 
 ## Professional Experience
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -38,44 +39,54 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2017 Apr. - 2019 Mar. **Teaching Assistant**, Keio University, Japan.
 - 2016 Apr. - 2019 Mar. **Collaborative Researcher**, Dwango artificial intelligence laboratory.
 
+## Education
+- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan.
+- 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
+- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
+- 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
+
 ## Membership
-- 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
+- 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
 <!--
-
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
+## Activities
+- 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 
 ## Publications
 ### Journal
+1. \cite{corequery} (accepted)
+1. \cite{10024779}
 1. \cite{9903483}
 1. \cite{9777698}
 1. \cite{10.3389/frobt.2022.783863}
 
 
-
 ### Conferences (Refereed)
-1. \cite{10.1145/3527188.3561917} (Best paper award)
-1. \cite{10.1145/3490099.3511116}
+1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
+1. \cite{10.1145/3490099.3511116} (<strong>Acceptance rate: 24.5%.</strong>)
 1. \cite{10.1145/3472307.3484668}
 1. \cite{Yoshino_2021}
-1. \cite{Matsumori_2021_ICCV}
+1. \cite{Matsumori_2021_ICCV} (<strong>Acceptance rate: 25.9%.</strong>)
 1. \cite{Otake_2021}
 1. \cite{Fukuchi_2020}
-1. \cite{DBLP:conf/hai/MatsumoriFOI18}
-1. \cite{Fukuchi_2018}
+1. \cite{DBLP:conf/hai/MatsumoriFOI18} (<strong>Long presentation acceptance rate: 29%.</strong>)
+1. \cite{Fukuchi_2018} (<strong>Long presentation acceptance rate: 29%.</strong>)
 1. \cite{Fukuchi_2017iconip}
 1. \cite{Fukuchi_2017}
 
 
 ### Preprints
+1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
 1. \cite{https://doi.org/10.48550/arxiv.2206.11813}
-1. \cite{https://doi.org/10.48550/arxiv.2205.07202}
 1. \cite{https://doi.org/10.48550/arxiv.2005.14662}
 
+
 ### Domestic conferences
+1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>)
 1. \cite{sm2022}
 1. \cite{hasegawa2022advantage}
 1. \cite{tsuchiya2022}
@@ -99,14 +110,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{fukuchi2017}
 
 
-
 ### Others
 1. \cite{20192019}
 
 
-
-
-
-
-
-
+## Grants
+1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
+1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
