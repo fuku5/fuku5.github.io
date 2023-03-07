@@ -55,7 +55,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
-
 ## Activities
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 
@@ -66,7 +65,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function",  IEEE Transactions on Human-Machine Systems , vol. 52, p. 1090--1102 2022. doi: <a href="https://ieeexplore.ieee.org/document/9903483">10.1109/THMS.2022.3207372</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Explaining Intelligent Agent's Future Motion on Basis of Vocabulary Learning With Human Goal Inference",  IEEE Access , vol. 10, p. 54336--54347 2022. doi: <a href="https://ieeexplore.ieee.org/document/9777698">10.1109/ACCESS.2022.3176104</a>
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, Tatsuji Takahashi, and Michita Imai,  "Conveying Intention by Motions With Awareness of Information Asymmetry",  Frontiers in Robotics and AI , vol. 9 2022. doi: <a href="https://www.frontiersin.org/article/10.3389/frobt.2022.783863">10.3389/frobt.2022.783863</a>
-
 
 
 ### Conferences (Refereed)
@@ -92,7 +90,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 
 ### Domestic conferences
-1.  <span class="underdot">福地庸介</span>, and  山田誠二,  "",  HAIシンポジウム2023  2023. (<strong>HAI-researcher Encouragement Award</strong>)
+1.  <span class="underdot">福地庸介</span>, and  山田誠二,  "信頼度推定にもとづく信頼較正キューの選択的提示",  HAIシンポジウム2023  2023. <a href="https://hai-conference.net/symp2023/proceedings/html/paper/paper-G-14.html">URL</a> (<strong>HAI-researcher Encouragement Award</strong>)
 1. 松森 匠哉, 奥岡 耕平, 柴田 遼一, 井上 南, 吉野 哲平, <span class="underdot">福地 庸介</span>, 岩沢 透, and 今井 倫太,  "マスク言語モデルを利用したOpen Cloze問題の自動生成",  人工知能学会全国大会論文集 , vol. JSAI2022, p. 3N4GS1004--3N4GS1004 2022.
 1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平, and  今井倫太,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
@@ -120,8 +118,6 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
 
 
-
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
-
