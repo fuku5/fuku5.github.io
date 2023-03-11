@@ -25,10 +25,11 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ## Research Interests
-- Human-AI interaction. Computational models of interaction for
+- Human-AI interaction. Meta AI models for socializing AI agents. Computational models of interaction for
   - mind-aware communication
   - human trust/reliance adjustment
   - applying AI systems to intelligent user interfaces
+
 
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
@@ -122,3 +123,4 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
