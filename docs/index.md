@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/03/07)
+(Last updated: 2023/03/12)
 </div>
 
 
@@ -121,3 +121,4 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
+1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
