@@ -19,11 +19,8 @@ Email: fukuchi (at) nii.ac.jp <br>
 (Last updated: {{  today  }})
 </div>
 
-
-
-
 ## Research Interests
-- Human-AI interaction. Computational models of interaction for
+- Human-AI interaction. Meta AI models for socializing AI agents. Computational models of interaction for
   - mind-aware communication
   - human trust/reliance adjustment
   - applying AI systems to intelligent user interfaces
@@ -32,6 +29,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
 
+
 ## Professional Experience
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2021 Mar. **Assistant Professor**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -39,11 +37,13 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2017 Apr. - 2019 Mar. **Teaching Assistant**, Keio University, Japan.
 - 2016 Apr. - 2019 Mar. **Collaborative Researcher**, Dwango artificial intelligence laboratory.
 
+
 ## Education
-- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan.
+- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan. [<a href="/phd_thesis.html">thesis (in Japanese)</a>]
 - 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
 - 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
+
 
 ## Membership
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
@@ -52,6 +52,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 <!--
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
+
 
 ## Activities
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
@@ -117,3 +118,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
+1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
+
