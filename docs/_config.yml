@@ -1,6 +1,10 @@
-url: "https://fukuchi.xyz"
+url: "https://fukuchi.xyz/"
 theme: jekyll-theme-primer
 plugins:
  - jekyll-sitemap
 
 title: Fukuchi, Yosuke
+
+sitemap:
+  exlucde:
+    - "/google875788e81f7017a0.html"
