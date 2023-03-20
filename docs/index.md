@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/03/14)
+(Last updated: 2023/03/20)
 </div>
 
 ## Research Interests
@@ -52,12 +52,15 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
 <!--
+
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
 
+
 ## Activities
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
+
 
 ## Publications
 ### Journal
@@ -95,6 +98,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. 松森 匠哉, 奥岡 耕平, 柴田 遼一, 井上 南, 吉野 哲平, <span class="underdot">福地 庸介</span>, 岩沢 透, and 今井 倫太,  "マスク言語モデルを利用したOpen Cloze問題の自動生成",  人工知能学会全国大会論文集 , vol. JSAI2022, p. 3N4GS1004--3N4GS1004 2022.
 1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平, and  今井倫太,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
+1. 庸介 福地,  "目標を考慮した指示表現の理解と学習 ー説明可能な知的エージェントに向けてー",  日本認知科学会 知覚と行動モデリング（P&P）研究分科会  2022. (<strong>最優秀発表賞</strong>)
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "アクショングラフを用いた 「位置情報と発話内容をもとにした」 信念と欲求の推定システム",  電子情報通信学会技術研究報告; 信学技報 , 電子情報通信学会 2021.
 1. 前川 知行, 松森 匠哉, <span class="underdot">福地 庸介</span>, and 今井 倫太,  "文脈の中で相互理解感を形作る推薦対話システム",  日本認知科学会第38回大会 , p. 40--46 2021.
 1. 内海 佑麻, <span class="underdot">福地 庸介</span>, 木本 充彦, and 今井 倫太,  "曖昧性解消における視覚的注意へのトップダウン介入",  人工知能学会全国大会論文集 , vol. JSAI2021, p. 1H2GS1a04--1H2GS1a04 2021.
@@ -115,13 +119,20 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1.  <span class="underdot">福地庸介</span>,  大澤正彦,  岨野太一,  山川宏, and  今井倫太,  "深層強化学習エージェントの自己モデルによる意図の解釈",  第 79 回全国大会講演論文集 , vol. 2017, p. 655--656 2017.
 
 
+
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
+1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, 福地庸介, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+
+
+
 
 
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
+
 
 

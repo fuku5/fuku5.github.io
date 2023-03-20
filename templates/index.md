@@ -50,12 +50,15 @@ Email: fukuchi (at) nii.ac.jp <br>
 - 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
 <!--
+
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
 
 
+
 ## Activities
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
+
 
 ## Publications
 ### Journal
@@ -91,6 +94,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{sm2022}
 1. \cite{hasegawa2022advantage}
 1. \cite{tsuchiya2022}
+1. \cite{p_and_p} (<strong>最優秀発表賞</strong>)
 1. \cite{tsuchiya2021}
 1. \cite{maekawa2021}
 1. \cite{uchiumi2021}
@@ -111,13 +115,20 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{fukuchi2017}
 
 
+
 ### Others
 1. \cite{20192019}
+1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, 福地庸介, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+
+
+
 
 
 ## Grants
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
+
 
 
