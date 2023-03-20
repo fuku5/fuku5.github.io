@@ -7,6 +7,7 @@ import mybib
 publications = mybib.load()
 
 paths = Path().glob('templates/*.md')
+DOCS_DIR = Path('./docs')
 
 for path in paths:
     if path.name == 'README.md':
@@ -22,6 +23,6 @@ for path in paths:
         data = data.replace(tag, publications[bib_id])
 
     print('load {}'.format(path))
-    with open('./docs/{}'.format(path.name), 'w') as f:
+    with (DOCS_DIR / path.name).open('w') as f:
         f.write(data)
-    print('dump: {}'.format(path.name))
+    print('dump: {}'.format(DOCS_DIR / path.name))
