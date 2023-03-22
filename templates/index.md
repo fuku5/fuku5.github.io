@@ -51,8 +51,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 <!--
 
+
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
+
 
 
 
@@ -71,6 +73,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ### Conferences (Refereed)
 1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
+1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. \cite{10.1145/3490099.3511116} (<strong>Acceptance rate: 24.5%.</strong>)
 1. \cite{10.1145/3472307.3484668}
 1. \cite{Yoshino_2021}
@@ -81,6 +84,8 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. \cite{Fukuchi_2018} (<strong>Long presentation acceptance rate: 29%.</strong>)
 1. \cite{Fukuchi_2017iconip}
 1. \cite{Fukuchi_2017}
+
+
 
 
 ### Preprints
@@ -118,7 +123,9 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ### Others
 1. \cite{20192019}
-1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, 福地庸介, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+
+
 
 
 
@@ -128,6 +135,8 @@ Email: fukuchi (at) nii.ac.jp <br>
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
+
 
 
 

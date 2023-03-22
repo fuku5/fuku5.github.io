@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/03/20)
+(Last updated: 2023/03/22)
 </div>
 
 ## Research Interests
@@ -53,8 +53,10 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 <!--
 
+
 - 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 -->
+
 
 
 
@@ -73,6 +75,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ### Conferences (Refereed)
 1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai,  "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function",  Proceedings of the 10th International Conference on Human-Agent Interaction , p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Acceptance rate: 39%. <strong>Best paper award.</strong>)
+1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai,  "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue",  27th International Conference on Intelligent User Interfaces , p. 734--745, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3490099.3511116">10.1145/3490099.3511116</a> (<strong>Acceptance rate: 24.5%.</strong>)
 1. Yuta Watanabe, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Shoya Matsumori, and Michita Imai,  "Inferring Human Beliefs and Desires from Their Actions and the Content of Their Utterances",  Proceedings of the 9th International Conference on Human-Agent Interaction , p. 391--395, Association for Computing Machinery 2021. doi: <a href="https://doi.org/10.1145/3472307.3484668">10.1145/3472307.3484668</a>
 1. Teppei Yoshino, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai,  "Simultaneous Contextualization and Interpretation with Keyword Awareness",  Artificial Intelligence and Soft Computing , p. 403--413, Springer International Publishing 2021. doi: <a href="https://doi.org/10.1007%2F978-3-030-87897-9_36">10.1007/978-3-030-87897-9_36</a>
@@ -87,6 +90,8 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. <span class="underdot">Yosuke Fukuchi</span>, Masahiko Osawa, Hiroshi Yamakawa, and Michita Imai,  "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",  Proceedings of the 5th International Conference on Human Agent Interaction , {ACM} 2017. doi: <a href="https://doi.org/10.1145%2F3125739.3125746">10.1145/3125739.3125746</a>
 
 
+
+
 ### Preprints
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada,  "Selectively Providing Reliance Calibration Cues With Reliance Prediction",   , arXiv 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a>
 1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai,  "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems",   , arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
@@ -98,7 +103,7 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. 松森 匠哉, 奥岡 耕平, 柴田 遼一, 井上 南, 吉野 哲平, <span class="underdot">福地 庸介</span>, 岩沢 透, and 今井 倫太,  "マスク言語モデルを利用したOpen Cloze問題の自動生成",  人工知能学会全国大会論文集 , vol. JSAI2022, p. 3N4GS1004--3N4GS1004 2022.
 1.  長谷川麟太郎,  <span class="underdot">福地庸介</span>,  奥岡耕平, and  今井倫太,  "Advantage 関数を用いたコントローラキャリブレーションによるユーザ好みのマッピングの獲得",  第 84 回全国大会講演論文集 , vol. 2022, p. 39--40 2022.
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "買い物支援ロボットに向けた実世界における信念と欲求の逐次推定モデルの検討",  第 84 回全国大会講演論文集 , vol. 2022, p. 95--96 2022.
-1. 庸介 福地,  "目標を考慮した指示表現の理解と学習 ー説明可能な知的エージェントに向けてー",  日本認知科学会 知覚と行動モデリング（P&P）研究分科会  2022. (<strong>最優秀発表賞</strong>)
+1. <span class="underdot">福地 庸介</span>,  "目標を考慮した指示表現の理解と学習 ー説明可能な知的エージェントに向けてー",  日本認知科学会 知覚と行動モデリング（P&P）研究分科会  2022. (<strong>最優秀発表賞</strong>)
 1.  土屋碧渡,  川崎陽祐,  渡邊悠太,  佐藤夏樹,  <span class="underdot">福地庸介</span>,  松森匠哉,  前川知行,  髙橋正樹, and  今井倫太,  "アクショングラフを用いた 「位置情報と発話内容をもとにした」 信念と欲求の推定システム",  電子情報通信学会技術研究報告; 信学技報 , 電子情報通信学会 2021.
 1. 前川 知行, 松森 匠哉, <span class="underdot">福地 庸介</span>, and 今井 倫太,  "文脈の中で相互理解感を形作る推薦対話システム",  日本認知科学会第38回大会 , p. 40--46 2021.
 1. 内海 佑麻, <span class="underdot">福地 庸介</span>, 木本 充彦, and 今井 倫太,  "曖昧性解消における視覚的注意へのトップダウン介入",  人工知能学会全国大会論文集 , vol. JSAI2021, p. 1H2GS1a04--1H2GS1a04 2021.
@@ -122,7 +127,9 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 
 ### Others
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙,  "2019 年度日本認知科学会サマースクール参加報告",  認知科学 , vol. 26, p. 524--526, 日本認知科学会 2019.
-1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, 福地庸介, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
+
+
 
 
 
@@ -132,6 +139,8 @@ is being Shared by Utterance Timing",  Proceedings of the 6th International Conf
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+
+
 
 
 
