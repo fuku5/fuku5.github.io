@@ -1,3 +1,6 @@
 __pycache__/
 .DS_Store
 Pipfile.lock
+Gemfile
+Gemfile.lock
+_site/
