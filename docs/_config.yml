@@ -5,7 +5,19 @@ plugins:
 
 title: Fukuchi, Yosuke
 
-sitemap:
-  exclucde:
-    - "/google875788e81f7017a0.html"
-    - "/files/main.pdf"
+defaults:
+    -
+      scope:
+        path: ""
+      values:
+        layout: "default"
+    -
+      scope:
+        path: "files/*"
+      values:
+        sitemap: false
+    -
+      scope:
+        path: "google875788e81f7017a0.html"
+      values:
+        sitemap: false
