@@ -6,5 +6,6 @@ plugins:
 title: Fukuchi, Yosuke
 
 sitemap:
-  exlucde:
+  exclucde:
     - "/google875788e81f7017a0.html"
+    - "/files/main.pdf"
