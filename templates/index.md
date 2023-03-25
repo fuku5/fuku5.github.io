@@ -64,7 +64,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Publications
 ### Journal
-1. \cite{corequery} (accepted)
+1. \cite{corequery}
 1. \cite{10024779}
 1. \cite{9903483}
 1. \cite{9777698}
