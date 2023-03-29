@@ -93,6 +93,7 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 ### Preprints
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", arXiv 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a>
+1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", 2023. <a href="https://doi.org/10.48550/arXiv.2302.08067">URL</a>
 1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems", arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
 1. Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences", arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a>
 
