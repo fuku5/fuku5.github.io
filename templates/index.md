@@ -95,6 +95,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Domestic conferences
+1. \cite{interaction23_hongo}
 1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>)
 1. \cite{sm2022}
 1. \cite{hasegawa2022advantage}

@@ -76,8 +76,7 @@ def to_text(record):
     rtn = textwrap.dedent('''\
     {author}, 
     "{title}", 
-    {booktitle}
-    ''').replace('\n', ' ').format(
+    {booktitle}, ''').replace('\n', ' ').format(
         author=author,
         title=title,
         booktitle=booktitle,
@@ -98,6 +97,8 @@ def to_text(record):
             rtn += ' doi: <a href="{url}">{doi}</a>'.format(url=record['url'], doi=record['doi'])
         else:
             rtn += ' <a href="{url}">URL</a>'.format(url=record['url'])
+    rtn = re.sub(r'(,( )*)+', ', ', rtn)
+    rtn = re.sub(r'{(.*?)}', '\\1', rtn)
     return rtn
 
 def load(bib_path='publications.bib'):
