@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/03/29)
+(Last updated: 2023/04/19)
 </div>
 
 ## Research Interests
@@ -74,6 +74,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Conferences (Refereed)
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a>
 1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function", Proceedings of the 10th International Conference on Human-Agent Interaction, p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai, "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue", 27th International Conference on Intelligent User Interfaces, p. 734--745, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3490099.3511116">10.1145/3490099.3511116</a> (<strong>Acceptance rate: 24.5%.</strong>)
@@ -92,7 +93,6 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ### Preprints
-1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", arXiv 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a>
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", 2023. <a href="https://doi.org/10.48550/arXiv.2302.08067">URL</a>
 1. Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems", arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a>
 1. Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences", arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a>

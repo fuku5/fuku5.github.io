@@ -72,6 +72,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Conferences (Refereed)
+1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
 1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. \cite{10.1145/3490099.3511116} (<strong>Acceptance rate: 24.5%.</strong>)
@@ -89,7 +90,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Preprints
-1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
 1. \cite{maehigashi2023modeling}
 1. \cite{https://doi.org/10.48550/arxiv.2206.11813}
 1. \cite{https://doi.org/10.48550/arxiv.2005.14662}
