@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/05/10)
+(Last updated: 2023/06/01)
 </div>
 
 ## Research Interests
@@ -61,6 +61,8 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ## Activities
+- 2023 Aug. Special session organizer (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2023 May - Reverse mentor for Liberal Democratic Party of Japan.
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. Vice-chair, Young Researcher Association of Japanese Cognitive Science Society.
 
