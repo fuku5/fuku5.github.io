@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/06/01)
+(Last updated: 2023/06/14)
 </div>
 
 ## Research Interests
@@ -30,6 +30,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
+- 2023 May - Reverse mentor for Liberal Democratic Party of Japan.
 
 
 ## Professional Experience
@@ -62,7 +63,6 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Activities
 - 2023 Aug. Special session organizer (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2023 May - Reverse mentor for Liberal Democratic Party of Japan.
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. Vice-chair, Young Researcher Association of Japanese Cognitive Science Society.
 
@@ -140,6 +140,7 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ## Grants
+1. "説明の選択的提示による信頼されるXAIの開発", AIP Challenge, 1,000,000 JPY, 2023.
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
