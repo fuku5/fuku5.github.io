@@ -18,7 +18,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/06/14)
+(Last updated: 2023/06/22)
 </div>
 
 ## Research Interests
@@ -77,6 +77,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 
 ### Conferences (Refereed)
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. (accepted)
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, 2023. doi: <a href="https://arxiv.org/abs/2302.09995">10.48550/ARXIV.2302.09995</a> (accepted)
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, 2023. <a href="https://doi.org/10.48550/arXiv.2302.08067">URL</a> (accepted)
 1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function", Proceedings of the 10th International Conference on Human-Agent Interaction, p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Acceptance rate: 39%. <strong>Best paper award.</strong>)
