@@ -76,6 +76,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ### Conferences (Refereed)
 1. \cite{iros2023} (accepted)
+1. \cite{maehigashi2023roman} (accepted)
 1. \cite{https://doi.org/10.48550/arxiv.2302.09995} (accepted)
 1. \cite{maehigashi2023modeling} (accepted)
 1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
