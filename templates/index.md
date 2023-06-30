@@ -22,15 +22,15 @@ Email: fukuchi (at) nii.ac.jp <br>
 ## Research Interests
 My research interests lie in human-AI interaction, with a focus on facilitating effective, natural, and trustworthy collaboration between humans and AI systems.
 My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to possess social capabilities.
-Particularly, I create AI system that are capable of
-  - mind-aware communication
+Particularly, I create AI systems/agents/interfaces that are capable of
+  - developing mutual understandings between humans and AIs 
   - calibrating human trust/reliance
-  - applying AI systems to intelligent user interfaces
+  - mind-aware communication
 
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
-- 2023 May - Reverse mentor for Liberal Democratic Party of Japan.
+- 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 
 
 ## Professional Experience
