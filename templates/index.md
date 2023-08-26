@@ -106,6 +106,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Domestic conferences
+1. \cite{jsai2023}
+1. \cite{jsai2023maehigashi}
 1. \cite{interaction23_hongo}
 1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>)
 1. \cite{sm2022}
