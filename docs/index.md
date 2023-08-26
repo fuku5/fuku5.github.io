@@ -5,6 +5,8 @@
 <div id="header_right">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
+<a href="https://www.researchgate.net/profile/Yosuke-Fukuchi">[ReserchGate]</a>
+<a href="https://researchmap.jp/fuku5">[researchmap]</a>
 <br>
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=If95M5sAAAAJ&citpid=3" height="128" width="108">
 </div>
@@ -18,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/07/22)
+(Last updated: 2023/08/26)
 </div>
 
 ## Research Interests
@@ -79,10 +81,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
+1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental investigation of human acceptance of AI suggestions with heatmap and pointing-based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, 2023. (accepted)
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. (accepted)
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical Investigation of How Robot's Pointing Gesture Influences Trust in and Acceptance of Heatmap-Based XAI", The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023. (accepted)
-1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a> (accepted)
-1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a> (accepted)
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a>
+1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a>
 1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function", Proceedings of the 10th International Conference on Human-Agent Interaction, p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai, "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue", 27th International Conference on Intelligent User Interfaces, p. 734--745, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3490099.3511116">10.1145/3490099.3511116</a> (<strong>Acceptance rate: 24.5%.</strong>)

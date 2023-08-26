@@ -3,6 +3,8 @@
 <div id="header_right">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
+<a href="https://www.researchgate.net/profile/Yosuke-Fukuchi">[ReserchGate]</a>
+<a href="https://researchmap.jp/fuku5">[researchmap]</a>
 <br>
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=If95M5sAAAAJ&citpid=3" height="128" width="108">
 </div>
@@ -77,10 +79,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
+1. \cite{hai2023maehigashi} (accepted)
 1. \cite{iros2023} (accepted)
 1. \cite{maehigashi2023roman} (accepted)
-1. \cite{https://doi.org/10.48550/arxiv.2302.09995} (accepted)
-1. \cite{maehigashi2023modeling} (accepted)
+1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
+1. \cite{maehigashi2023modeling}
 1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. \cite{10.1145/3490099.3511116} (<strong>Acceptance rate: 24.5%.</strong>)
