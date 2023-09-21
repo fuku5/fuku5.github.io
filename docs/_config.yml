@@ -4,7 +4,7 @@ plugins:
  - jekyll-sitemap
 
 title: Fukuchi, Yosuke
-
+google_analytics: G-DGMQFP7CTR
 defaults:
     -
       scope:
