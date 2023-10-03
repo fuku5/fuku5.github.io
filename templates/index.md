@@ -80,7 +80,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Conferences (Refereed)
 1. \cite{hai2023maehigashi} (accepted)
-1. \cite{iros2023} (<strong>SIYA-IROS 2023 award.</strong> accepted)
+1. \cite{iros2023} <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award.</strong>)
 1. \cite{maehigashi2023roman} (accepted)
 1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
 1. \cite{maehigashi2023modeling}
