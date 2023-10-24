@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/10/03)
+(Last updated: 2023/10/24)
 </div>
 
 ## Research Interests
@@ -82,7 +82,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Conferences (Refereed)
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental investigation of human acceptance of AI suggestions with heatmap and pointing-based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, 2023. (accepted)
-1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">URL</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award.</strong>)
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">URL</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical Investigation of How Robot's Pointing Gesture Influences Trust in and Acceptance of Heatmap-Based XAI", The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023. (accepted)
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a>
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a>
