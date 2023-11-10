@@ -136,6 +136,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Others
+1. \cite{jimin_reverse1} 
+1. \cite{jimin_reverse2} 
+1. \cite{jimin_reverse3} 
 1. \cite{20192019}
 1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
 
