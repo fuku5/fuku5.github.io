@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/11/11)
+(Last updated: 2023/11/13)
 </div>
 
 ## Research Interests
@@ -139,9 +139,9 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ### Others
-1. 飯田 森, 徳力 創一朗, <span class="underdot">福地 庸介</span>, 古井 康介, and 鑓水 陽子, "デジタル社会推進本部の組織及び運営に関する提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 8--12 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf">SLIDES</a>
-1. <span class="underdot">福地 庸介</span>, 古井 康介, 飯田 森, 鑓水 陽子, 徳力 創一朗, and 合田 瞳, "選挙DXの推進を求める提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 27--34 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf">SLIDES</a>
-1. 古井 康介, 鑓水 陽子, <span class="underdot">福地 庸介</span>, 飯田 森, and  永見日菜子, "妊娠及び育児に伴う身体的及び精神的不安を低減するデジタル化推進を 求める提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 54--67 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf">SLIDES</a>
+1. 飯田 森, 徳力 創一朗, <span class="underdot">福地 庸介</span>, 古井 康介, and 鑓水 陽子, "デジタル社会推進本部の組織及び運営に関する提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 8--12 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf#page=8">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf#page=1">SLIDES</a>
+1. <span class="underdot">福地 庸介</span>, 古井 康介, 飯田 森, 鑓水 陽子, 徳力 創一朗, and 合田 瞳, "選挙DXの推進を求める提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 27--34 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf#page=27">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf#page=11">SLIDES</a>
+1. 古井 康介, 鑓水 陽子, <span class="underdot">福地 庸介</span>, 飯田 森, and  永見日菜子, "妊娠及び育児に伴う身体的及び精神的不安を低減するデジタル化推進を 求める提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 54--67 2023. <a href="https://storage.jimin.jp/pdf/news/information/206994_1.pdf#page=54">PDF</a> <a href="https://storage.jimin.jp/pdf/news/information/206994_2.pdf#page=35">SLIDES</a>
 
 1. <span class="underdot">福地 庸介</span>, and 鳥羽山 莉沙, "2019 年度日本認知科学会サマースクール参加報告", 認知科学, vol. 26, p. 524--526, 日本認知科学会 2019.
 1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
