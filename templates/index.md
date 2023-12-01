@@ -32,7 +32,6 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
-- 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 
 
 ## Professional Experience
@@ -64,6 +63,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
+- 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 - 2023 Aug. Special session organizer (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. Vice-chair, Young Researcher Association of Japanese Cognitive Science Society.
@@ -81,7 +81,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 ### Conferences (Refereed)
 1. \cite{hai2023maehigashi} (accepted)
 1. \cite{iros2023} <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
-1. \cite{maehigashi2023roman} (accepted)
+1. \cite{maehigashi2023roman}
 1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
 1. \cite{maehigashi2023modeling}
 1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)

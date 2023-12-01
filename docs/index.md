@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/11/13)
+(Last updated: 2023/12/01)
 </div>
 
 ## Research Interests
@@ -34,7 +34,6 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 ## Current Positions
 - 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
-- 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 
 
 ## Professional Experience
@@ -66,6 +65,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
+- 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 - 2023 Aug. Special session organizer (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
 - 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. Vice-chair, Young Researcher Association of Japanese Cognitive Science Society.
@@ -83,9 +83,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 ### Conferences (Refereed)
 1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental investigation of human acceptance of AI suggestions with heatmap and pointing-based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, 2023. (accepted)
 1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">URL</a> <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
-1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical Investigation of How Robot's Pointing Gesture Influences Trust in and Acceptance of Heatmap-Based XAI", The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023. (accepted)
-1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a>
-1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a>
+1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot’s pointing gesture influences trust in and acceptance of heatmap-based XAI", 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), vol. , p. 2134--2139 2023.
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45, p. 1579--1586 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a>
+1. Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45, p. 1929--1936 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a>
 1. Rintaro Hasegawa, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function", Proceedings of the 10th International Conference on Human-Agent Interaction, p. 95--103, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3527188.3561917">10.1145/3527188.3561917</a> (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai, "Utilizing Core-Query for Context-Sensitive Ad Generation Based on Dialogue", 27th International Conference on Intelligent User Interfaces, p. 734--745, Association for Computing Machinery 2022. doi: <a href="https://doi.org/10.1145/3490099.3511116">10.1145/3490099.3511116</a> (<strong>Acceptance rate: 24.5%.</strong>)
