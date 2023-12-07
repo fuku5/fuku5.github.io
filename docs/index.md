@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/12/04)
+(Last updated: 2023/12/07)
 </div>
 
 ## Research Interests
@@ -73,6 +73,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ## Publications
 ### Journal
+1. <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Selection of Reliance Calibration Cues with AI Reliance Model", IEEE Access, vol. , p.  2023. doi: <a href="https://doi.org/10.1109/ACCESS.2023.3339548">10.1109/ACCESS.2023.3339548</a>
 1. Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai, "Conversational Context-Sensitive Ad Generation With a Few Core-Queries", ACM Transactions on Interactive Intelligent Systems, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3588578">10.1145/3588578</a>
 1. Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai, "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model", IEEE Access, vol. 11, p. 9835--9850 2023. doi: <a href="https://ieeexplore.ieee.org/document/10024779">10.1109/ACCESS.2023.3239005</a>
 1. Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function", IEEE Transactions on Human-Machine Systems, vol. 52, p. 1090--1102 2022. doi: <a href="https://ieeexplore.ieee.org/document/9903483">10.1109/THMS.2022.3207372</a>
