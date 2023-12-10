@@ -70,40 +70,48 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Publications
+<div id="data-const" style="display:none;" data-keyword-list='["Explainable AI", "AI Reliability Communication", "Intelligent UI", "Reinforcement learning", "Cognitive modeling", "Theory of mind", "Education", "Dialogue and context", "Policy making"]'></div>
+<select id="keyword-selector" size="1">
+<option value="">Keywords</option>
+</select>
+<!-- 
+  keywords: 
+  [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context')]
+-->
 ### Journal
-1. \cite{10343151}
-1. \cite{corequery}
-1. \cite{10024779}
-1. \cite{9903483}
-1. \cite{9777698}
-1. \cite{10.3389/frobt.2022.783863}
+1. \cite{10343151}{{"keywords": [0,1,4]}}
+1. \cite{corequery}{{"keywords": [2,7]}}
+1. \cite{10024779}{{"keywords": [6,7]}}
+1. \cite{9903483}{{"keywords": [2,3]}}
+1. \cite{9777698}{{"keywords": [0,3]}}
+1. \cite{10.3389/frobt.2022.783863}{{"keywords": [0,3,4,5]}}
 
 
 ### Conferences (Refereed)
-1. \cite{hai2023maehigashi}
-1. \cite{iros2023} <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
-1. \cite{maehigashi2023roman}
-1. \cite{https://doi.org/10.48550/arxiv.2302.09995}
-1. \cite{maehigashi2023modeling}
-1. \cite{10.1145/3527188.3561917} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
+1. \cite{hai2023maehigashi}{{"keywords": [0,1,4]}}
+1. \cite{iros2023}{{"keywords": [0,1,4]}} <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
+1. \cite{maehigashi2023roman}{{"keywords": [0,1,4]}}
+1. \cite{https://doi.org/10.48550/arxiv.2302.09995}{{"keywords": [0,1,4]}}
+1. \cite{maehigashi2023modeling}{{"keywords": [0,1,4]}}
+1. \cite{10.1145/3527188.3561917}{{"keywords": [2,3]}} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
-1. \cite{10.1145/3490099.3511116} (<strong>Acceptance rate: 24.5%.</strong>)
-1. \cite{10.1145/3472307.3484668}
-1. \cite{Yoshino_2021}
-1. \cite{Matsumori_2021_ICCV} (<strong>Acceptance rate: 25.9%.</strong>)
-1. \cite{Otake_2021}
-1. \cite{Fukuchi_2020}
-1. \cite{DBLP:conf/hai/MatsumoriFOI18} (<strong>Long presentation acceptance rate: 29%.</strong>)
-1. \cite{Fukuchi_2018} (<strong>Long presentation acceptance rate: 29%.</strong>)
-1. \cite{Fukuchi_2017iconip}
-1. \cite{Fukuchi_2017}
+1. \cite{10.1145/3490099.3511116}{{"keywords": [2,3]}} (<strong>Acceptance rate: 24.5%.</strong>)
+1. \cite{10.1145/3472307.3484668}{{"keywords": [4,5,7]}}
+1. \cite{Yoshino_2021}{{"keywords": [7]}}
+1. \cite{Matsumori_2021_ICCV}{{"keywords": [7]}} (<strong>Acceptance rate: 25.9%.</strong>)
+1. \cite{Otake_2021}{{"keywords": [7]}}
+1. \cite{Fukuchi_2020}{{"keywords": [2]}}
+1. \cite{DBLP:conf/hai/MatsumoriFOI18}{{"keywords": [4,7]}} (<strong>Long presentation acceptance rate: 29%.</strong>)
+1. \cite{Fukuchi_2018}{{"keywords": [0,3,4,5]}} (<strong>Long presentation acceptance rate: 29%.</strong>)
+1. \cite{Fukuchi_2017iconip}{{"keywords": [0,3]}}
+1. \cite{Fukuchi_2017}{{"keywords": [0,3]}}
 
 
 
 
 ### Preprints
-1. \cite{https://doi.org/10.48550/arxiv.2206.11813}
-1. \cite{https://doi.org/10.48550/arxiv.2005.14662}
+1. \cite{https://doi.org/10.48550/arxiv.2206.11813}{{"keywords": [7]}}
+1. \cite{https://doi.org/10.48550/arxiv.2005.14662}{{"keywords": [7]}}
 
 
 ### Domestic conferences
@@ -137,9 +145,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Others
-1. \cite{jimin_reverse1} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>
-1. \cite{jimin_reverse2} <a href="/files/206994_1.pdf#page=27">PDF</a> <a href="/files/206994_2.pdf#page=11">SLIDES</a>
-1. \cite{jimin_reverse3} <a href="/files/206994_1.pdf#page=54">PDF</a> <a href="/files/206994_2.pdf#page=35">SLIDES</a>
+1. \cite{jimin_reverse1}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>
+1. \cite{jimin_reverse2}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=27">PDF</a> <a href="/files/206994_2.pdf#page=11">SLIDES</a>
+1. \cite{jimin_reverse3}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=54">PDF</a> <a href="/files/206994_2.pdf#page=35">SLIDES</a>
 
 1. \cite{20192019}
 1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
@@ -160,9 +168,35 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 <script>
-$('.publication_element').each(function() {
-        // Perform your operations here
-        console.log($(this).data());
+var keywords = $("#data-const").data()["keywordList"];
+var keyword_selector = $("#keyword-selector");
+
+function display_selected_publications(keyword) {
+  $('.publication_element').each(function() {
+      var data = $(this).data();
+      if (("keywords" in data) && data['keywords'].includes(keyword)) {
+        $(this).css("background-color", "#FFEF6E");
+      }
   });
+    
+}
+function reset_publication_selection() {
+  $('.publication_element').each(function() {
+      $(this).css("background-color", "");
+  });
+}
+keyword_selector.change(function(){
+  var val = $(this).val();
+  reset_publication_selection();
+  if (val != "") {
+    display_selected_publications(parseInt(val));
+  }
+});
+
+for (i in keywords) {
+  console.log(keywords[i]);
+  option = $("<option>").val(i).text(keywords[i]);
+  keyword_selector.append(option);
+}
 </script>
 
