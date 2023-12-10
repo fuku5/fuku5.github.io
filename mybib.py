@@ -3,6 +3,7 @@ from bibtexparser.bparser import BibTexParser
 from bibtexparser.customization import *
 import textwrap
 import re
+import json
 
 
 def author(record):
@@ -84,7 +85,7 @@ def to_text(record):
     my_name_pattern = re.compile('(Yosuke Fukuchi|Fukuchi, Yosuke|福地庸介|福地 庸介)')
     rtn = my_name_pattern.sub('<span class="underdot">\\1</span>', rtn)
 
-    if 'volume' in record:
+    if 'volume' in record and record['volume']:
         rtn += ', vol. {}'.format(record['volume'])
     if 'pages' in record:
         rtn += ', p. {}'.format(record['pages'])
@@ -108,24 +109,7 @@ def load(bib_path='publications.bib'):
         bib_database = bibtexparser.load(f, parser=parser)
 
     publications = {entry['ID']: to_text(entry) for entry in bib_database.entries}
-    if False:
-        for entry in bib_database.entries:
-            del entry['author']
-            del entry['title']
-            if 'link' in entry:
-                del entry['link']
-                del entry['url']
-                del entry['doi']
-            if 'booktitle' in entry:
-                del entry['booktitle']
-            if 'journal' in entry:
-                del entry['journal']
-            del entry['ID']
-            if 'keywords' in entry:
-                del entry['keywords']
-            del entry['year']
-        print(bib_database.entries)
+    keywords = {entry['ID']: json.dumps(entry['keywords'].split(', ')) for entry in bib_database.entries if 'keywords' in entry.keys() and entry['keywords'] != ''}
 
-
-    return publications
+    return publications, keywords
 

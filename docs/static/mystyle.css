@@ -17,3 +17,7 @@ div#header #header_right {
     float: right;
     text-align: right;
 }
+
+.publication_element {
+	display: inline;
+}

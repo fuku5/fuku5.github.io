@@ -159,5 +159,10 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 
-
+<script>
+$('.publication_element').each(function() {
+        // Perform your operations here
+        console.log($(this).data());
+  });
+</script>
 

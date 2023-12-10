@@ -4,7 +4,7 @@ from pathlib import Path
 
 import mybib
 
-publications = mybib.load()
+publications, keywords = mybib.load()
 
 paths = Path().glob('templates/*.md')
 DOCS_DIR = Path('./docs')
@@ -18,9 +18,16 @@ for path in paths:
             + '<!-- EDIT index.md and run make.py -->\n' \
             + data
     data = data.replace('{{  today  }}', datetime.date.today().strftime('%Y/%m/%d'))
-    for tag in re.findall(r'\\cite{.*}', data):
+    for tag, additional in re.findall(r'(\\cite{.*})(.*)', data):
         bib_id = re.search(r'\\cite{(.*)}', tag).group(1)
-        data = data.replace(tag, publications[bib_id])
+
+        part = '<div class="publication_element"' 
+        if bib_id in keywords.keys():
+            part += f" data-keywords='{keywords[bib_id]}'"
+        part += '>'
+        part += publications[bib_id]
+        part += ' ' + additional + '</div>'
+        data = data.replace(tag+additional, part)
 
     print('load {}'.format(path))
     with (DOCS_DIR / path.name).open('w') as f:
