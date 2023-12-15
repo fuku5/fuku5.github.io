@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/12/10)
+(Last updated: 2023/12/15)
 </div>
 
 ## Research Interests
@@ -91,7 +91,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Conferences (Refereed)
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental Investigation of Human Acceptance of AI Suggestions with Heatmap and Pointing-Based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, p. 291--298, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3623809.3623834">10.1145/3623809.3623834</a> </div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">URL</a>  <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)</div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. doi: <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">10.1109/IROS55552.2023.10341684</a>  <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)</div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot’s pointing gesture influences trust in and acceptance of heatmap-based XAI", 2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), p. 2134--2139 2023. doi: <a href="https://doi.org/10.1109/RO-MAN57019.2023.10309507">10.1109/RO-MAN57019.2023.10309507</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selectively Providing Reliance Calibration Cues With Reliance Prediction", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45, p. 1579--1586 2023. <a href="https://escholarship.org/uc/item/8zp6g0mj">URL</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Modeling Reliance on XAI Indicating Its Purpose and Attention", Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 45, p. 1929--1936 2023. <a href="https://escholarship.org/uc/item/1fx742xm">URL</a> </div>

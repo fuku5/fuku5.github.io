@@ -23,7 +23,6 @@ for path in paths:
         bib_id = re.search(r'\\cite{(.*)}', tag).group(1)
 
         part = '<div class="publication_element" ' 
-        print(tag, argument_str, additional)
         if argument_str:
             assert argument_str[0] == '{' and argument_str[-1] == '}'
             argument = json.loads(argument_str[1:-1])
