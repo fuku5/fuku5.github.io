@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2023/12/15)
+(Last updated: 2023/12/18)
 </div>
 
 ## Research Interests
@@ -81,7 +81,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
   [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context')]
 -->
 ### Journal
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Selection of Reliance Calibration Cues with AI Reliance Model", IEEE Access, p.  2023. doi: <a href="https://doi.org/10.1109/ACCESS.2023.3339548">10.1109/ACCESS.2023.3339548</a> </div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Selection of Reliance Calibration Cues with AI Reliance Model", IEEE Access, vol. 11, p. 138870--138881 2023. doi: <a href="https://doi.org/10.1109/ACCESS.2023.3339548">10.1109/ACCESS.2023.3339548</a> </div>
 1. <div class="publication_element" data-keywords="[2, 7]" >Ryoichi Shibata, Shoya Matsumori, <span class="underdot">Yosuke Fukuchi</span>, Tomoyuki Maekawa, Mitsuhiko Kimoto, and Michita Imai, "Conversational Context-Sensitive Ad Generation with a Few Core-Queries", ACM Transactions on Interactive Intelligent Systems, vol. 13, p. 1--37, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3588578">10.1145/3588578</a> </div>
 1. <div class="publication_element" data-keywords="[6, 7]" >Shoya Matsumori, Kohei Okuoka, Ryoichi Shibata, Minami Inoue, <span class="underdot">Yosuke Fukuchi</span>, and Michita Imai, "Mask and Cloze: Automatic Open Cloze Question Generation Using a Masked Language Model", IEEE Access, vol. 11, p. 9835--9850 2023. doi: <a href="https://ieeexplore.ieee.org/document/10024779">10.1109/ACCESS.2023.3239005</a> </div>
 1. <div class="publication_element" data-keywords="[2, 3]" >Riki Satogata, Mitsuhiko Kimoto, <span class="underdot">Yosuke Fukuchi</span>, Kohei Okuoka, and Michita Imai, "Q-Mapping: Learning User-Preferred Operation Mappings With Operation-Action Value Function", IEEE Transactions on Human-Machine Systems, vol. 52, p. 1090--1102 2022. doi: <a href="https://ieeexplore.ieee.org/document/9903483">10.1109/THMS.2022.3207372</a> </div>
