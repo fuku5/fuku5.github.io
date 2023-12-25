@@ -89,7 +89,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Conferences (Refereed)
 1. \cite{hai2023maehigashi}{{"keywords": [0,1,4]}}
-1. \cite{iros2023}{{"keywords": [0,1,4]}} <a href="https://events.infovaya.com/presentation?id=105431">URL2</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
+1. \cite{iros2023}{{"keywords": [0,1,4]}} <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
 1. \cite{maehigashi2023roman}{{"keywords": [0,1,4]}}
 1. \cite{https://doi.org/10.48550/arxiv.2302.09995}{{"keywords": [0,1,4]}}
 1. \cite{maehigashi2023modeling}{{"keywords": [0,1,4]}}
