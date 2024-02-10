@@ -80,9 +80,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 -->
 ### Journal
 1. \cite{10343151}{{"keywords": [0,1,4]}}
-1. \cite{corequery}{{"keywords": [2,7]}}
+1. \cite{corequery}{{"keywords": [2,7]}} <a href="https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing">PDF</a>
 1. \cite{10024779}{{"keywords": [6,7]}}
-1. \cite{9903483}{{"keywords": [2,3]}}
+1. \cite{9903483}{{"keywords": [2,3]}} <a href="https://drive.google.com/file/d/15gIiAU_cUPUeTjXJDpDe0PEXJ9nE_Id9/view?usp=sharing">PDF</a>
 1. \cite{9777698}{{"keywords": [0,3]}}
 1. \cite{10.3389/frobt.2022.783863}{{"keywords": [0,3,4,5]}}
 

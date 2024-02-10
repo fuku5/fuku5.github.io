@@ -98,6 +98,9 @@ def to_text(record):
             rtn += ' doi: <a href="{url}">{doi}</a>'.format(url=record['url'], doi=record['doi'])
         else:
             rtn += ' <a href="{url}">URL</a>'.format(url=record['url'])
+    elif 'doi' in record:
+        rtn += ' doi: <a href="https://doi.org/{doi}">{doi}</a>'.format(doi=record['doi'])
+
     rtn = re.sub(r'(,( )*)+', ', ', rtn)
     rtn = re.sub(r'{(.*?)}', '\\1', rtn)
     return rtn
