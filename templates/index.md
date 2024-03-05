@@ -110,6 +110,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Preprints
+1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}}
 1. \cite{https://doi.org/10.48550/arxiv.2206.11813}{{"keywords": [7]}}
 1. \cite{https://doi.org/10.48550/arxiv.2005.14662}{{"keywords": [7]}}
 
