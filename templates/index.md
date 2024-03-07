@@ -117,19 +117,19 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Domestic conferences
-1. \cite{hais2024}
-1. \cite{jsai2023}
-1. \cite{jsai2023maehigashi}
-1. \cite{interaction23_hongo}
-1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>)
-1. \cite{sm2022}
-1. \cite{hasegawa2022advantage}
-1. \cite{tsuchiya2022}
-1. \cite{p_and_p} (<strong>最優秀発表賞</strong>)
-1. \cite{tsuchiya2021}
-1. \cite{maekawa2021}
-1. \cite{uchiumi2021}
-1. \cite{1573668927856247424}
+1. \cite{hais2024}{{"keywords": [0,1,4]}}
+1. \cite{jsai2023}{{"keywords": [0,1,4]}}
+1. \cite{jsai2023maehigashi}{{"keywords": [0,1,4]}}
+1. \cite{interaction23_hongo}{{"keywords": [7]}}
+1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>){{"keywords": [0,1,4]}}
+1. \cite{sm2022}{{"keywords": [6]}}
+1. \cite{hasegawa2022advantage}{{"keywords": [2,3]}}
+1. \cite{tsuchiya2022}{{"keywords": [4,5,7]}}
+1. \cite{p_and_p}{{"keywords": [0,3]}} (<strong>最優秀発表賞</strong>)
+1. \cite{tsuchiya2021}{{"keywords": [4,5,7]}}
+1. \cite{maekawa2021}{{"keywords": [7]}}
+1. \cite{uchiumi2021}{{"keywords": [4]}}
+1. \cite{1573668927856247424}{{"keywords": [2,7]}}
 1. \cite{1572824502926346240}
 1. \cite{1574231877809662848}
 1. \cite{takarada2020}
