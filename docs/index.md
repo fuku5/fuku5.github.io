@@ -65,10 +65,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
+- 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
-- 2023 Aug. Special session organizer (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2022 Dec. Workshop organizer (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
-- 2020 Apr. - 2022 Mar. Vice-chair, Young Researcher Association of Japanese Cognitive Science Society.
+- 2023 Aug. **Special session organizer** (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2022 Dec. **Workshop organizer** (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
+- 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 
 ## Publications
