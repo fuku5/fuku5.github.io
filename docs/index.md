@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2024/03/05)
+(Last updated: 2024/03/07)
 </div>
 
 ## Research Interests
@@ -119,6 +119,7 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ### Domestic conferences
+1. <div class="publication_element" > <span class="underdot">福地庸介</span>, and  山田誠二, "人-XAIインタラクションにおけるユーザ意思決定モデルの検討", HAIシンポジウム2024, 2024. <a href="https://hai-conference.net/symp2024/proceedings/html/paper/paper-G-13.html">URL</a> </div>
 1. <div class="publication_element" ><span class="underdot">福地 庸介</span>, and 山田 誠二, "信頼の獲得に向けた物体認識結果の選択的提示手法の検討", 人工知能学会全国大会論文集, vol. JSAI2023, p. 3I5OS4c03--3I5OS4c03 2023. doi: <a href="https://doi.org/10.11517/pjsai.JSAI2023.0_3I5OS4c03">10.11517/pjsai.JSAI2023.0_3I5OS4c03</a> </div>
 1. <div class="publication_element" >前東 晃礼, <span class="underdot">福地 庸介</span>, and 山田 誠二, "目標と注意の説明を用いたXAI利用のモデル化", 人工知能学会全国大会論文集, vol. JSAI2023, p. 3I5OS4c05--3I5OS4c05 2023. doi: <a href="https://doi.org/10.11517/pjsai.JSAI2023.0_3I5OS4c05">10.11517/pjsai.JSAI2023.0_3I5OS4c05</a> </div>
 1. <div class="publication_element" >本郷 望実, 前川 知行, 松森 匠哉, <span class="underdot">福地 庸介</span>, and 今井 倫太, "購買行動を誘導する対話エージェントの立ち位置が買い物支援システムのユーザ評価に与える影響", INTERACTION 2023, p. 1B--26, 一般社団法人情報処理学会シンポジウム 2023. </div>
