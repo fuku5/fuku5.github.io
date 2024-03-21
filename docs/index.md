@@ -20,12 +20,12 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
 Email: fukuchi (at) nii.ac.jp <br>
-(Last updated: 2024/03/09)
+(Last updated: 2024/03/21)
 </div>
 
 ## Research Interests
 My research interests lie in human-AI interaction, with a focus on facilitating effective, natural, and trustworthy collaboration between humans and AI systems.
-My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to possess social capabilities.
+My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to socially interact with non-expert human users.
 Particularly, I create AI systems/agents/interfaces that are capable of
   - developing mutual understandings between humans and AIs 
   - calibrating human trust/reliance

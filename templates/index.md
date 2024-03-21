@@ -23,7 +23,7 @@ Email: fukuchi (at) nii.ac.jp <br>
 
 ## Research Interests
 My research interests lie in human-AI interaction, with a focus on facilitating effective, natural, and trustworthy collaboration between humans and AI systems.
-My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to possess social capabilities.
+My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to socially interact with non-expert human users.
 Particularly, I create AI systems/agents/interfaces that are capable of
   - developing mutual understandings between humans and AIs 
   - calibrating human trust/reliance
