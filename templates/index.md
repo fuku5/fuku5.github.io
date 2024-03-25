@@ -27,6 +27,7 @@ My research involves the integration of computational models that capture the dy
 Particularly, I create AI systems/agents/interfaces that are capable of
   - developing mutual understandings between humans and AIs 
   - calibrating human trust/reliance
+  - nudging a user decision with dynamic explanation biasing
   - mind-aware communication
 
 ## Current Positions
