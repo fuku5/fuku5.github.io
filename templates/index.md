@@ -31,11 +31,12 @@ Particularly, I create AI systems/agents/interfaces that are capable of
   - mind-aware communication
 
 ## Current Positions
-- 2022 Apr. - Present **Project Researcher**, National Institute of Informatics, Japan.
+- 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan.
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
 
 
 ## Professional Experience
+- 2022 Apr. - 2024 Mar. **Project Researcher**, National Institute of Informatics, Japan.
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2021 Mar. **Assistant Professor**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2019 Sep. **Teaching Assistant**, Tokyo University of Technology, Japan.
