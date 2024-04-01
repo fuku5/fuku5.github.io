@@ -166,6 +166,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Grants
+1. "説明可能AIはユーザをナッジできるか", KAKENHI Grant-in-Aid for Early-Career Scientists, 2024/04-2027/03.
 1. "説明の選択的提示による信頼されるXAIの開発", AIP Challenge, 1,000,000 JPY, 2023 (<strong>AIP Network Laboratory Director's Award</strong>).
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
