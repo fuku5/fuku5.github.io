@@ -19,7 +19,7 @@ Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & T
 Email: fukuchi (at) ailab.ics.keio.ac.jp 
 -->
 Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
-Email: fukuchi (at) nii.ac.jp <br>
+Email: fukuchi (at) tmu.ac.jp <br>
 (Last updated: 2024/04/01)
 </div>
 
