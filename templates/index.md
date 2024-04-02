@@ -16,7 +16,7 @@ Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & T
 3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
 Email: fukuchi (at) ailab.ics.keio.ac.jp 
 -->
-Seiji Yamada Laboratory, Digital Content and Media Sciences Research Division, National Institute of Informatics (NII), Japan.<br>
+Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
 (Last updated: {{  today  }})
 </div>
