@@ -20,7 +20,7 @@ Email: fukuchi (at) ailab.ics.keio.ac.jp
 -->
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/04/02)
+(Last updated: 2024/04/07)
 </div>
 
 ## Research Interests
@@ -169,7 +169,7 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ## Grants
-1. "説明可能AIはユーザをナッジできるか", KAKENHI Grant-in-Aid for Early-Career Scientists, 2024/04-2027/03.
+1. "説明可能AIはユーザをナッジできるか", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680,000 JPY, 2024/04-2027/03. [<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/">URL</a>]
 1. "説明の選択的提示による信頼されるXAIの開発", AIP Challenge, 1,000,000 JPY, 2023 (<strong>AIP Network Laboratory Director's Award</strong>).
 1. "心の読み合いにもとづく非言語表現の計算論的理解," KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得," The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
