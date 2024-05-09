@@ -13,14 +13,9 @@
 </div>
 
 <div style="text-align: right;">
-<!--
-Imai Laboratory, Dept. of Information & Computer Science, Faculty of Science & Technology, Keio University<br>
-3-14-1 Hiyoshi, Kohoku-ku, Yokohama, Kanagawa 223-8522, Japan<br>
-Email: fukuchi (at) ailab.ics.keio.ac.jp 
--->
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/04/07)
+(Last updated: 2024/05/09)
 </div>
 
 ## Research Interests
@@ -57,16 +52,10 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
 - 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
-<!--
-
-
-- 2018 Apr. - Present **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
--->
-
-
 
 
 ## Activities
+- 2024 Aug. **Special session organizer** (Bridging Trust and Context: Dynamic Interactions in HAI) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
 - 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
 - 2023 Aug. **Special session organizer** (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
