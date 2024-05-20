@@ -15,7 +15,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/05/15)
+(Last updated: 2024/05/20)
 </div>
 
 ## Research Interests
@@ -107,7 +107,7 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 ### Preprints
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Explanation Emphasis in Human-XAI Interaction with Communication Robot", 2024. </div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Explanation Selection Towards Successful User-Decision Support with Explainable AI", 2024. <a href="https://doi.org/10.48550/arXiv.2402.18016">URL</a> </div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024. <a href="https://arxiv.org/pdf/2402.18016v2">URL</a> </div>
 1. <div class="publication_element" data-keywords="[7]" >Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems", arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a> </div>
 1. <div class="publication_element" data-keywords="[7]" >Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences", arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a> </div>
 
