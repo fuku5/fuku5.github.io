@@ -53,11 +53,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
-- 2024 Aug. **Special session organizer** (Bridging Trust and Context: Dynamic Interactions in HAI) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
+- 2024 Aug. **Special session organizer** (<a href="https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf">Bridging Trust and Context: Dynamic Interactions in HAI</a>) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
 - 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
-- 2023 Aug. **Special session organizer** (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2022 Dec. **Workshop organizer** (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
+- 2023 Aug. **Special session organizer** (<a href="https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf">Designing trustworthy human agent interaction in dynamic context</a>) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2022 Dec. **Workshop organizer** (<a href="https://sites.google.com/view/chai-workshop22">Cognitive Human-agent Interaction</a>) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 
@@ -80,6 +80,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
+1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}} (Accepted)
+1. \cite{maehigashi2024ro-man}{{"keywords": [0,1,4]}} (Accepted)
 1. \cite{10.1145/3613905.3650802}{{"keywords": [0,1,4]}}
 1. \cite{hai2023maehigashi}{{"keywords": [0,1,4]}}
 1. \cite{iros2023}{{"keywords": [0,1,4]}} <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
@@ -104,7 +106,6 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Preprints
 1. \cite{fukuchi2024emphasis}{{"keywords": [0,1,4]}}
-1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}}
 1. \cite{https://doi.org/10.48550/arxiv.2206.11813}{{"keywords": [7]}}
 1. \cite{https://doi.org/10.48550/arxiv.2005.14662}{{"keywords": [7]}}
 

@@ -15,7 +15,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/05/20)
+(Last updated: 2024/05/27)
 </div>
 
 ## Research Interests
@@ -55,11 +55,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
-- 2024 Aug. **Special session organizer** (Bridging Trust and Context: Dynamic Interactions in HAI) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
+- 2024 Aug. **Special session organizer** (<a href="https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf">Bridging Trust and Context: Dynamic Interactions in HAI</a>) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
 - 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
-- 2023 Aug. **Special session organizer** (Designing trustworthy human agent interaction in dynamic context) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2022 Dec. **Workshop organizer** (Cognitive Human-agent Interaction) at the International Conference of Human-agent Interaction 2022. 
+- 2023 Aug. **Special session organizer** (<a href="https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf">Designing trustworthy human agent interaction in dynamic context</a>) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2022 Dec. **Workshop organizer** (<a href="https://sites.google.com/view/chai-workshop22">Cognitive Human-agent Interaction</a>) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 
@@ -82,6 +82,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024. <a href="https://arxiv.org/pdf/2402.18016v2">URL</a>  (Accepted)</div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot head motion influences acceptance of heatmap-based XAI: Designing XAI with social robot", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.  (Accepted)</div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Adjusting Amount of AI Explanation for Visual Tasks", Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, p. 1--7, Association for Computing Machinery 2024. doi: <a href="https://doi.org/10.1145/3613905.3650802">10.1145/3613905.3650802</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental Investigation of Human Acceptance of AI Suggestions with Heatmap and Pointing-Based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, p. 291--298, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3623809.3623834">10.1145/3623809.3623834</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), p. 3527--3532 2023. doi: <a href="https://ieeexplore.ieee.org/document/10341684">10.1109/IROS55552.2023.10341684</a>  <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)</div>
@@ -107,7 +109,6 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 ### Preprints
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Dynamic Explanation Emphasis in Human-XAI Interaction with Communication Robot", 2024. </div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024. <a href="https://arxiv.org/pdf/2402.18016v2">URL</a> </div>
 1. <div class="publication_element" data-keywords="[7]" >Teppei Yoshino, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems", arXiv 2022. doi: <a href="https://arxiv.org/abs/2206.11813">10.48550/ARXIV.2206.11813</a> </div>
 1. <div class="publication_element" data-keywords="[7]" >Yusuke Takimoto, <span class="underdot">Yosuke Fukuchi</span>, Shoya Matsumori, and Michita Imai, "SLAM-Inspired Simultaneous Contextualization and Interpreting for Incremental Conversation Sentences", arXiv 2020. doi: <a href="https://arxiv.org/abs/2005.14662">10.48550/ARXIV.2005.14662</a> </div>
 
