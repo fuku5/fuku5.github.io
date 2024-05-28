@@ -15,7 +15,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/05/27)
+(Last updated: 2024/05/28)
 </div>
 
 ## Research Interests
@@ -82,7 +82,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024. <a href="https://arxiv.org/pdf/2402.18016v2">URL</a>  (Accepted)</div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024. <a href="https://arxiv.org/abs/2402.18016">URL</a>  (Accepted)</div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot head motion influences acceptance of heatmap-based XAI: Designing XAI with social robot", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.  (Accepted)</div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Adjusting Amount of AI Explanation for Visual Tasks", Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, p. 1--7, Association for Computing Machinery 2024. doi: <a href="https://doi.org/10.1145/3613905.3650802">10.1145/3613905.3650802</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental Investigation of Human Acceptance of AI Suggestions with Heatmap and Pointing-Based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, p. 291--298, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3623809.3623834">10.1145/3623809.3623834</a> </div>
