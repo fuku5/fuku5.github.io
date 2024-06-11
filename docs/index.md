@@ -15,7 +15,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/05/31)
+(Last updated: 2024/06/12)
 </div>
 
 ## Research Interests
@@ -115,6 +115,8 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 ### Domestic conferences
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">福地 庸介</span>, and 山田 誠二, "人-XAIインタラクションにおける説明強調点の動的選択手法の検討", 人工知能学会全国大会論文集, vol. JSAI2024, p. 4T3OS6d02--4T3OS6d02 2024. doi: <a href="https://doi.org/10.11517/pjsai.JSAI2024.0_4T3OS6d02">10.11517/pjsai.JSAI2024.0_4T3OS6d02</a> </div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" >前東 晃礼, <span class="underdot">福地 庸介</span>, and 山田 誠二, "視覚的課題におけるXAIデザインの検討", 人工知能学会全国大会論文集, vol. JSAI2024, p. 4T3OS6d01--4T3OS6d01 2024. doi: <a href="https://doi.org/10.11517/pjsai.JSAI2024.0_4T3OS6d01">10.11517/pjsai.JSAI2024.0_4T3OS6d01</a> </div>
 1. <div class="publication_element" data-keywords="[6]" > <span class="underdot">福地庸介</span>, "機械学習を用いた教育動画コンテンツ処理に関する基礎検討", 日本発達心理学会 第35回全国大会 ラウンドテーブル「デジタルネイティブ世代のメディア視聴とその影響 実生活環境下におけるテレビ視聴に関する発達神経科学的縦断研究」, 2024.  </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" > <span class="underdot">福地庸介</span>, and  山田誠二, "人-XAIインタラクションにおけるユーザ意思決定モデルの検討", HAIシンポジウム2024, 2024. <a href="https://hai-conference.net/symp2024/proceedings/html/paper/paper-G-13.html">URL</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">福地 庸介</span>, and 山田 誠二, "信頼の獲得に向けた物体認識結果の選択的提示手法の検討", 人工知能学会全国大会論文集, vol. JSAI2023, p. 3I5OS4c03--3I5OS4c03 2023. doi: <a href="https://doi.org/10.11517/pjsai.JSAI2023.0_3I5OS4c03">10.11517/pjsai.JSAI2023.0_3I5OS4c03</a> </div>
