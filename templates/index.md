@@ -81,6 +81,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ### Conferences (Refereed)
 1. \cite{icres2024}{{"keywords": [0,1,4]}} (Accepted)
+1. \cite{icres2024maehigashi}{{"keywords": [0,1,4]}} (Accepted)
 1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}} (Accepted)
 1. \cite{maehigashi2024ro-man}{{"keywords": [0,1,4]}} (Accepted)
 1. \cite{10.1145/3613905.3650802}{{"keywords": [0,1,4]}}
