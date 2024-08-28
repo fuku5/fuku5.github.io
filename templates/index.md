@@ -147,6 +147,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Others
+1. \cite{CCWS2024}
+1. \cite{cogsciMeetUp2024}
 1. \cite{jimin_reverse1}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>
 1. \cite{jimin_reverse2}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=27">PDF</a> <a href="/files/206994_2.pdf#page=11">SLIDES</a>
 1. \cite{jimin_reverse3}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=54">PDF</a> <a href="/files/206994_2.pdf#page=35">SLIDES</a>
