@@ -120,7 +120,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 1. \cite{jsai2023}{{"keywords": [0,1,4]}}
 1. \cite{jsai2023maehigashi}{{"keywords": [0,1,4]}}
 1. \cite{interaction23_hongo}{{"keywords": [7]}}
-1. \cite{hais2023} (<strong>HAI-researcher Encouragement Award</strong>){{"keywords": [0,1,4]}}
+1. \cite{hais2023}{{"keywords": [0,1,4]}}
+ (<strong>HAI-researcher Encouragement Award</strong>)
 1. \cite{sm2022}{{"keywords": [6]}}
 1. \cite{hasegawa2022advantage}{{"keywords": [2,3]}}
 1. \cite{tsuchiya2022}{{"keywords": [4,5,7]}}
