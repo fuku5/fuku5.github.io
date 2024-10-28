@@ -1,55 +1,31 @@
-<html>
-<head>
-  <title>博士論文: AIエージェントの挙動に関する共通認識の構築に向けた人とのコミュニケーションモデルの研究</title>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="canonical" href="https://fukuchi.xyz">
+---
+title: 博士論文：AIエージェントの挙動に関する共通認識の構築に向けた人とのコミュニケーションモデルの研究
+meta_include: "meta_phd_thesis.html"
+---
 
-  <link rel="stylesheet" href="https://fukuchi.xyz/assets/css/style.css?v=0e7f6f2545a48718231d690e3a97fe27924890b7">
-  <link rel="stylesheet" href="https://fukuchi.xyz/static/mystyle.css">
+# 博士論文
 
-  <meta name="citation_title" content="AIエージェントの挙動に関する共通認識の構築に向けた人とのコミュニケーションモデルの研究">
-  <meta name="citation_author" content="福地, 庸介">
-  <meta name="citation_publication_date" content="2023/03/01">
-  <meta name="citation_abstract_html_url" content="https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20226002-0003">
-  <meta name="citation_university_name" content="Keio University">
-  <meta name="citation_language" content="ja">
-  <meta name="citation_firstpage" content="1">
-  <meta name="citation_lastpage" content="81">
-  <meta name="citation_keywords" content="Human-AI interaction; PublicSelf; Explainable AI; Theory of mind">
-  <meta name="citation_pdf_url" content="https://fukuchi.xyz/files/main.pdf">
-  <meta name="citation_abstract" content="機械学習によって行動を学習する自律エージェント-AIエージェント-が、技術の発展にともなって複雑な挙動を扱えるようになっている。しかし、既存のAIエージェントの設計では、エージェントと共存するユーザや周囲の人とのコミュニケーションが十分に考慮されていない。AIエージェントの多くは事前に与えられた価値基準を最大化することに特化しており、それをもとに学習した行動方策は、実際の場面で人が持っている評価基準や期待とは必ずしも一致しない。真に人に利する存在となるためにAIエージェントは、学習した方策に固定的に従うのではなく、ユーザが期待する挙動を適宜認識できるようにすることが重要である。また、AIエージェントが人の期待を認識するだけでなく、人もAIエージェントの挙動を正しく把握できるようにする必要がある。エージェントの挙動を人が把握できなければ、エージェントが予測不能となり、意図せぬ動作や思わぬ事故に繋がる。しかし、特に深層強化学習モデルは大量の数値パラメータで表現され、多くの場合で人が直接理解できる表現を持たない。こうした学習モデルブラックボックス化の問題は、モデルの複雑化や大規模化とともに深刻さを増している。
-本論文の目標は、人とAIエージェントの共存に向けて、AIエージェントの挙動に関する相互理解を構築する挙動アライメントを達成することである。そして、コミュニケーションを通じて挙動アライメントを達成するための2つのモデルを提案する。2つのモデルに共通するのは、AIエージェントと人との間で、目標や信念といった心的状態を帰属し合う〈心〉の読みあいの中で、両者の間に存在する情報の差異（非対称性）を明示的に組み込むことで、効果的なコミュニケーションを実現している点である。
-第1に提案する「期待されるエージェント」モデルは、人がAIエージェントに達成を期待する目標を推測しながらコミュニケーションを行う過程をモデル化したものである。このモデルには、人の目標はAIエージェントの目標と必ずしも一致しないという目標の非対称性の存在が組み込まれている。
-目標の非対称性を考慮することでAIエージェントは、人から与えられる指示を正しく解釈することができる。さらに、解釈した指示の語彙を流用することで、AIエージェントがどのように動こうとしているかを人に伝達できるようになる。評価実験の結果、「期待されるエージェント」モデルが、指示の背後にある目標を正しく推定できること、推定した目標を元に解釈した指示の語彙をAIエージェントの動きの伝達に利用することで、人がAIエージェントの挙動を精度よく予測できるようになることが示された。
-第2に提案する「推測されるエージェント」モデルは、AIエージェントの動きを見た人がエージェントに対して帰属する目標を、エージェントの側から推測しながらコミュニケーションを行う過程をモデル化している。この時、人とAIエージェントが異なる視界から環境を観測しているという観測の非対称性を考慮することで、人がAIエージェントに帰属する目標を正しく推測できる。  さらに、このモデルを応用することで、AIエージェントの目標を伝達する動き(表意動作)を生成できる。評価実験の結果、「推測されるエージェント」モデルが生成する表意動作によって、人がAIエージェントの目標をより早く、正しく推測できるようになることがわかった。
-"
-</head>
-<body>
-   <div class="container-lg px-3 my-5 markdown-body">
+AIエージェントの挙動に関する共通認識の構築に向けた人とのコミュニケーションモデルの研究
 
-   <h1>博士論文: AIエージェントの挙動に関する共通認識の構築に向けた<br>人とのコミュニケーションモデルの研究</h1>
-   <div>
-     <h3>英題</h3>
-     A Study on Communication Models for Behavior Alignment Between Humans and AI Agents
-   </div>
-   <div>
-     <h3>著者</h3>
-     福地庸介
-     </div>
-     <div>
-     <h3>Document</h3>
-    <a href="https://fukuchi.xyz/files/main.pdf">PDF LINK</a>
-   </div>
-  <div>
-    <h3>要旨</h3>
+### 英題
+
+A Study on Communication Models for Behavior Alignment Between Humans and AI Agents
+
+### 著者
+
+福地庸介
+### Document
+
+<a href="/files/main.pdf">PDF LINK</a>
+### 要旨
+
 機械学習によって行動を学習する自律エージェント—<strong>AIエージェント</strong>—が、技術の発展にともなって複雑な挙動を扱えるようになっている。しかし、既存のAIエージェントの設計では、エージェントと共存するユーザや周囲の人とのコミュニケーションが十分に考慮されていない。AIエージェントの多くは事前に与えられた価値基準を最大化することに特化しており、それをもとに学習した行動方策は、実際の場面で人が持っている評価基準や期待とは必ずしも一致しない。真に人に利する存在となるためにAIエージェントは、学習した方策に固定的に従うのではなく、ユーザが期待する挙動を適宜認識できるようにすることが重要である。また、AIエージェントが人の期待を認識するだけでなく、人もAIエージェントの挙動を正しく把握できるようにする必要がある。エージェントの挙動を人が把握できなければ、エージェントが予測不能となり、意図せぬ動作や思わぬ事故に繋がる。しかし、特に深層強化学習モデルは大量の数値パラメータで表現され、多くの場合で人が直接理解できる表現を持たない。こうした学習モデルブラックボックス化の問題は、モデルの複雑化や大規模化とともに深刻さを増している。<br>
 本論文の目標は、人とAIエージェントの共存に向けて、AIエージェントの挙動に関する相互理解を構築する<strong>挙動アライメント</strong>を達成することである。そして、コミュニケーションを通じて挙動アライメントを達成するための2つのモデルを提案する。2つのモデルに共通するのは、AIエージェントと人との間で、目標や信念といった心的状態を帰属し合う〈心〉の読みあいの中で、両者の間に存在する情報の差異(非対称性)を明示的に組み込むことで、効果的なコミュニケーションを実現している点である。<br>
 第1に提案する「期待されるエージェント」モデルは、人がAIエージェントに達成を期待する目標を推測しながらコミュニケーションを行う過程をモデル化したものである。このモデルには、人の目標はAIエージェントの目標と必ずしも一致しないという目標の非対称性の存在が組み込まれている。目標の非対称性を考慮することでAIエージェントは、人から与えられる指示を正しく解釈することができる。さらに、解釈した指示の語彙を流用することで、AIエージェントがどのように動こうとしているかを人に伝達できるようになる。評価実験の結果、「期待されるエージェント」モデルが、指示の背後にある目標を正しく推定できること、推定した目標を元に解釈した指示の語彙をAIエージェントの動きの伝達に利用することで、人がAIエージェントの挙動を精度よく予測できるようになることが示された。<br>
 第2に提案する「推測されるエージェント」モデルは、AIエージェントの動きを見た人がエージェントに対して帰属する目標を、エージェントの側から推測しながらコミュニケーションを行う過程をモデル化している。この時、人とAIエージェントが異なる視界から環境を観測しているという観測の非対称性を考慮することで、人がAIエージェントに帰属する目標を正しく推測できる。さらに、このモデルを応用することで、AIエージェントの目標を伝達する動き(表意動作)を生成できる。評価実験の結果、「推測されるエージェント」モデルが生成する表意動作によって、人がAIエージェントの目標をより早く、正しく推測できるようになることがわかった。
-  </div>
-  <div><h3>Abstract</h3>
+
+### Abstract
+
   With the development of machine learning, AI agents, which autonomously learn actions through machine learning, are becoming capable of making complex decisions. However, their lack of ability to communicate with humans makes human-agent coexistence challenging. As a result of poor communication regarding the agents' behavior, they cannot behave as humans expect them to. The behavior of AI agents with machine learning depends on training datasets or values defined by designers, so it does not always match users' expectations. Through communication, AI agents should be able to understand what users expect of them to align their behavior with user expectations. In addition, AI agents should be able to communicate what they will do because their black-box decision-making modules prevent users from understanding their future behavior, which can lead to unintended behaviors and serious accidents. 
 
   This thesis presents two studies that aim at <strong>behavior alignment</strong>, i.e., aligning how AI agents behave and how humans expect them to behave through communication. Each study proposes a communication model to enable an AI agent to achieve behavior alignment. The two studies have in common that they exploit "mind"-reading phenomena between humans and AI agents and take into account an information asymmetry between them. 
@@ -58,7 +34,3 @@
 
   The second study proposes an <strong>inferred-agent</strong> model, which infers an AI agent's mental state attributed by a human observing the agent's motion to enhance behavior alignment communication. The model effectively handles an observation asymmetry between a human and an agent to infer an attributed mental state and generates legible motion, a motion that conveys the agent's goal. Experimental results show that the inferred-agent model can enable human observers to quickly infer an agent's goal by taking into account an observation asymmetry.
 
-  </div>
-   </div>
-</body>
-</html
