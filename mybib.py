@@ -88,7 +88,7 @@ def to_text(record):
     if 'volume' in record and record['volume']:
         rtn += ', vol. {}'.format(record['volume'])
     if 'pages' in record:
-        rtn += ', p. {}'.format(record['pages'])
+        rtn += ', p. {}'.format(record['pages']).replace('--', '-')
     if 'publisher' in record:
         rtn += ', {}'.format(record['publisher'])
     rtn += ' {}.'.format(record['year'])

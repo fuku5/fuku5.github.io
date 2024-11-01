@@ -113,6 +113,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Domestic conferences
+1. \cite{VRGakkai2024}
+1. \cite{VRGakkai2024_2}
 1. \cite{jsai_fukuchi_2024}{{"keywords": [0,1,4]}}
 1. \cite{jsai_maehigashi_2024}{{"keywords": [0,1,4]}}
 1. \cite{jsdp2024}{{"keywords": [6]}} 
