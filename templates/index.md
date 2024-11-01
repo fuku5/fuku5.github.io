@@ -80,10 +80,10 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
-1. \cite{icres2024}{{"keywords": [0,1,4]}} (Accepted)
-1. \cite{icres2024maehigashi}{{"keywords": [0,1,4]}} (Accepted)
-1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}} (Accepted)
-1. \cite{maehigashi2024ro-man}{{"keywords": [0,1,4]}} (Accepted)
+1. \cite{icres2024}{{"keywords": [0,1,4]}}
+1. \cite{icres2024maehigashi}{{"keywords": [0,1,4]}}
+1. \cite{fukuchi2024dynamic}{{"keywords": [0,1,4]}} <a href="https://www.researchgate.net/publication/385414210_User_Decision_Guidance_with_Selective_Explanation_Presentation_from_Explainable-AI">PDF</a>
+1. \cite{maehigashi2024ro-man}{{"keywords": [0,1,4]}} <a href="https://www.researchgate.net/publication/383605482_Empirical_investigation_of_how_robot_head_motion_influences_acceptance_of_heatmap-based_XAI_Designing_XAI_with_social_robot">PDF</a>
 1. \cite{10.1145/3613905.3650802}{{"keywords": [0,1,4]}}
 1. \cite{hai2023maehigashi}{{"keywords": [0,1,4]}}
 1. \cite{iros2023}{{"keywords": [0,1,4]}} <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
@@ -146,7 +146,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 
-### Others
+## Others
+1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
 1. \cite{jimin_reverse1}{{"keywords": [8]}} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>

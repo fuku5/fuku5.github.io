@@ -15,7 +15,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-(Last updated: 2024/10/29)
+(Last updated: 2024/11/01)
 </div>
 
 ## Research Interests
@@ -82,10 +82,10 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Should XAI Nudge Human Decisions with Explanation Biasing?", The 9th issue of the International Conference Series on Robot Ethics and Standards (ICRES), 2024. <a href="https://www.researchgate.net/publication/381320461_Should_XAI_Nudge_Human_Decisions_with_Explanation_Biasing">URL</a>  (Accepted)</div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Investigating Impact of Robot Motion on AI Transparency and Trust in AI", The 9th issue of the International Conference Series on Robot Ethics and Standards (ICRES), 2024.  (Accepted)</div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024. <a href="https://arxiv.org/abs/2402.18016">URL</a>  (Accepted)</div>
-1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot head motion influences acceptance of heatmap-based XAI: Designing XAI with social robot", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.  (Accepted)</div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Should XAI Nudge Human Decisions with Explanation Biasing?", The 9th issue of the International Conference Series on Robot Ethics and Standards (ICRES), 2024. <a href="https://www.researchgate.net/publication/381320461_Should_XAI_Nudge_Human_Decisions_with_Explanation_Biasing">URL</a> </div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Investigating Impact of Robot Motion on AI Transparency and Trust in AI", The 9th issue of the International Conference Series on Robot Ethics and Standards (ICRES), 2024. </div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "User Decision Guidance with Selective Explanation Presentation from Explainable-AI", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), p. 338--343 2024. doi: <a href="https://doi.org/10.1109/RO-MAN60168.2024.10731188">10.1109/RO-MAN60168.2024.10731188</a>  <a href="https://www.researchgate.net/publication/385414210_User_Decision_Guidance_with_Selective_Explanation_Presentation_from_Explainable-AI">PDF</a></div>
+1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Empirical investigation of how robot head motion influences acceptance of heatmap-based XAI: Designing XAI with social robot", 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), p. 344--350 2024. doi: <a href="https://doi.org/10.1109/RO-MAN60168.2024.10731272">10.1109/RO-MAN60168.2024.10731272</a>  <a href="https://www.researchgate.net/publication/383605482_Empirical_investigation_of_how_robot_head_motion_influences_acceptance_of_heatmap-based_XAI_Designing_XAI_with_social_robot">PDF</a></div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Adjusting Amount of AI Explanation for Visual Tasks", Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, p. 1--7, Association for Computing Machinery 2024. doi: <a href="https://doi.org/10.1145/3613905.3650802">10.1145/3613905.3650802</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" >Akihiro Maehigashi, <span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Experimental Investigation of Human Acceptance of AI Suggestions with Heatmap and Pointing-Based XAI", Proceedings of the 11th International Conference on Human-Agent Interaction, p. 291--298, Association for Computing Machinery 2023. doi: <a href="https://doi.org/10.1145/3623809.3623834">10.1145/3623809.3623834</a> </div>
 1. <div class="publication_element" data-keywords="[0, 1, 4]" ><span class="underdot">Yosuke Fukuchi</span>, and Seiji Yamada, "Selective Presentation of AI Object Detection Results While Maintaining Human Reliance", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), p. 3527--3532 2023. doi: <a href="https://ieeexplore.ieee.org/document/10341684">10.1109/IROS55552.2023.10341684</a>  <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)</div>
@@ -149,7 +149,8 @@ is being Shared by Utterance Timing", Proceedings of the 6th International Confe
 
 
 
-### Others
+## Others
+1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. <div class="publication_element" > <span class="underdot">福地庸介</span>, "Cognitive Human-AI Interaction", 第23回 認知的コミュニケーションワークショップ, 2024. </div>
 1. <div class="publication_element" > <span class="underdot">福地庸介</span>, "HAIでCogSciを牛耳るために", CogSci Meetpu 2024 in Hamamatsu, 2024. </div>
 1. <div class="publication_element" data-keywords="[8]" >飯田 森, 徳力 創一朗, <span class="underdot">福地 庸介</span>, 古井 康介, and 鑓水 陽子, "デジタル社会推進本部の組織及び運営に関する提言", 自由民主党・党改革実行本部 リバースメンター 自由民主党のデジタル政策に関する提言集, p. 8--12 2023.  <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a></div>
