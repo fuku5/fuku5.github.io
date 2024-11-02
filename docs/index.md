@@ -60,7 +60,6 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 - 2022 Dec. **Workshop organizer** (<a href="https://sites.google.com/view/chai-workshop22">Cognitive Human-agent Interaction</a>) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
-
 ## Publications
 <div id="data-const" style="display:none;" data-keyword-list='["Explainable AI", "AI Reliability Communication", "Intelligent UI", "Reinforcement learning", "Cognitive modeling", "Theory of mind", "Education", "Dialogue and context", "Policy making"]'></div>
 <select id="keyword-selector" size="1">
@@ -70,6 +69,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
   keywords: 
   [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context')]
 -->
+<div class="bibtex-citation-block" markdown="1">
 ### Journal
 1. \cite{10343151}{[0,1,4]}
 1. \cite{corequery}{[2,7]} <a href="https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing">PDF</a>
@@ -146,20 +146,20 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 1. \cite{fukuchi2017_2}
 1. \cite{fukuchi2017}
 
+</div>
 
 
 ## Others
+<div class="bibtex-citation-block" markdown="1">
 1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
 1. \cite{jimin_reverse1}{[8]} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>
 1. \cite{jimin_reverse2}{[8]} <a href="/files/206994_1.pdf#page=27">PDF</a> <a href="/files/206994_2.pdf#page=11">SLIDES</a>
 1. \cite{jimin_reverse3}{[8]} <a href="/files/206994_1.pdf#page=54">PDF</a> <a href="/files/206994_2.pdf#page=35">SLIDES</a>
-
 1. \cite{20192019}
 1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
-
-
+</div>
 
 
 
@@ -176,7 +176,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 <script type="module">
-
+// BibTeX
 import { replaceCitations} from './static/index.js';
 const bibtexUrl = '/files/publications.bib'
 
@@ -221,6 +221,7 @@ $(document).ready(function() {
 </script>
 
 <script>
+// Updated date
 function formatDate(date, sep="") {
   const yyyy = date.getFullYear();
   const mm = ('00' + (date.getMonth()+1)).slice(-2);

@@ -17,22 +17,23 @@ async function parseBibTeXFromURL(url) {
         }, {});
 }
 
+function replaceCitationTag(content, bibData) {
+  return content.replace(/\\cite{([^}]+)}(?:{([^}]+)})?/g, (match, id, keywords) => {
+      const keywordsAttr = keywords ? ` data-keywords="${keywords}"` : '';
+      return `<div class="publication_element"${keywordsAttr}>${bibData[id]}</div>` || `[Citation for ${id} not found]`;
+  });
+}
 
 async function replaceCitations(bibtexUrl) {
     // BibTeXデータを取得
     const bibData = await parseBibTeXFromURL(bibtexUrl);
 
-    // <body>のHTMLを取得
-    const bodyContent = document.body.innerHTML;
-
-    // \cite{id}{}タグを置換
-    const updatedContent = bodyContent.replace(/\\cite{([^}]+)}(?:{([^}]+)})?/g, (match, id, keywords) => {
-        const keywordsAttr = keywords ? ` data-keywords="${keywords}"` : '';
-        return `<div class="publication_element"${keywordsAttr}>${bibData[id]}</div>` || `[Citation for ${id} not found]`;
+    const bibtexBlocks = document.querySelectorAll(".bibtex-citation-block");
+    bibtexBlocks.forEach(element => {
+        element.innerHTML = replaceCitationTag(element.innerHTML, bibData);
     });
 
-    // 置換したHTMLを<body>に再設定
-    document.body.innerHTML = updatedContent;
+
 };
 export { replaceCitations };
 
