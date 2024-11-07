@@ -62,14 +62,12 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 ## Publications
 <div id="data-const" style="display:none;" data-keyword-list='["Explainable AI", "AI Reliability Communication", "Intelligent UI", "Reinforcement learning", "Cognitive modeling", "Theory of mind", "Education", "Dialogue and context", "Policy making"]'></div>
-<select id="keyword-selector" size="1">
-<option value="">Keywords</option>
-</select>
+<div id="keyword-selector-block"></div>
 <!-- 
   keywords: 
   [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context')]
 -->
-<div class="bibtex-citation-block" markdown="1">
+<div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
 1. \cite{10343151}{[0,1,4]}
 1. \cite{corequery}{[2,7]} <a href="https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing">PDF</a>
@@ -150,7 +148,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Others
-<div class="bibtex-citation-block" markdown="1">
+<div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
@@ -177,63 +175,13 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 <script type="module">
 // BibTeX
-import { replaceCitations} from './static/index.js';
+import { replaceCitations } from './static/bibtex.js';
+import { initKeywordSelector } from './static/index.js';
 const bibtexUrl = '/files/publications.bib'
 
-$(document).ready(function() {
-  function initKeywordSelector() {
-  // Highlights items with keyword
-    var keywords = $("#data-const").data()["keywordList"];
-    var keyword_selector = $("#keyword-selector");
-
-    function display_selected_publications(keyword) {
-      $('.publication_element').each(function() {
-          var data = $(this).data();
-          if (("keywords" in data) && data['keywords'].includes(keyword)) {
-            $(this).css("background-color", "#FFEF6E");
-          }
-      });
-        
-    }
-    function reset_publication_selection() {
-      $('.publication_element').each(function() {
-          $(this).css("background-color", "");
-      });
-    }
-    keyword_selector.change(function(){
-      var val = $(this).val();
-      reset_publication_selection();
-      if (val != "") {
-        display_selected_publications(parseInt(val));
-      }
-    });
-
-    for (let i in keywords) {
-      const option = $("<option>").val(i).text(keywords[i]);
-      keyword_selector.append(option);
-    }
-  }
-
-  // replace bibtex
+document.addEventListener("DOMContentLoaded", function() {
   replaceCitations(bibtexUrl).then(initKeywordSelector);
-
 });
 </script>
 
-<script>
-// Updated date
-function formatDate(date, sep="") {
-  const yyyy = date.getFullYear();
-  const mm = ('00' + (date.getMonth()+1)).slice(-2);
-  const dd = ('00' + date.getDate()).slice(-2);
-
-  return `${yyyy}${sep}${mm}${sep}${dd}`;
-}
-
-$(document).ready(function() {
-  const lastModifiedDate = new Date(document.lastModified);
-  $("#last_modified_date").text(
-    formatDate(lastModifiedDate, sep="/")
-  );
-});
-</script>
+<script src="./static/modify_date.js"></script>

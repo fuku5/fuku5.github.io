@@ -1,39 +1,61 @@
-import { fetchText } from './fetch.js';
-import { splitBibTeXEntries, parseBibTeXEntry } from './bibtex/parser.js';
-import { author, toText } from './bibtex/formatter.js';
 
-async function parseBibTeXFromURL(url) {
-    const bibtexText = await fetchText(url);
-    if (!bibtexText) return {};
+function getKeywords() {
+  const keywords = document.getElementById("data-const").dataset.keywordList.replace('[', '').replace(']', '').split(',');
 
-    const entries = splitBibTeXEntries(bibtexText);
-    return entries
-        .map(parseBibTeXEntry)
-        .filter(entry => entry !== null)
-        .reduce((acc, entry) => {
-            entry = author(entry);
-            acc[entry.id] = toText(entry);
-            return acc;
-        }, {});
+  keywords.forEach(function(elem, index, arr) {
+      arr[index] = elem.replaceAll('"', '');
+      });
+
+  return keywords
 }
 
-function replaceCitationTag(content, bibData) {
-  return content.replace(/\\cite{([^}]+)}(?:{([^}]+)})?/g, (match, id, keywords) => {
-      const keywordsAttr = keywords ? ` data-keywords="${keywords}"` : '';
-      return `<div class="publication_element"${keywordsAttr}>${bibData[id]}</div>` || `[Citation for ${id} not found]`;
-  });
+function initKeywordSelector() {
+  // Highlights items with keyword
+  const keywords = getKeywords();
+
+  function createKeywordSelector(keywords) {
+    const keywordSelector = document.createElement("select");
+    keywordSelector.id = "keyword-selector";
+    const default_option = document.createElement("option");
+    default_option.text = "Keywords";
+    keywordSelector.appendChild(default_option);
+
+    keywords.forEach((keyword, i) => {
+        const option = document.createElement("option");
+        option.value = i;
+        option.textContent = keyword;
+        keywordSelector.appendChild(option);
+        });
+    return keywordSelector;
+  }
+  const keywordSelector = createKeywordSelector(keywords);
+
+  function displaySelectedPublications(keyword) {
+    document.querySelectorAll('.publication_element').forEach(element => {
+        const data = element.dataset;
+        if (data.keywords && data.keywords.includes(keyword)) {
+        element.style.backgroundColor = "#FFEF6E";
+        }
+        });
+  }
+
+  function resetPublicationSelection() {
+    document.querySelectorAll('.publication_element').forEach(element => {
+        element.style.backgroundColor = "";
+        });
+  }
+
+  function changeEventListener() {
+    const val = this.value;
+    resetPublicationSelection();
+    if (val !== "") {
+      displaySelectedPublications(parseInt(val));
+    }
+  }
+
+  keywordSelector.addEventListener("change", changeEventListener); 
+
+  document.getElementById("keyword-selector-block").append(keywordSelector);
 }
 
-async function replaceCitations(bibtexUrl) {
-    // BibTeXデータを取得
-    const bibData = await parseBibTeXFromURL(bibtexUrl);
-
-    const bibtexBlocks = document.querySelectorAll(".bibtex-citation-block");
-    bibtexBlocks.forEach(element => {
-        element.innerHTML = replaceCitationTag(element.innerHTML, bibData);
-    });
-
-
-};
-export { replaceCitations };
-
+export { initKeywordSelector };
