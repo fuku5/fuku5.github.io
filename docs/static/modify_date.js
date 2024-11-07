@@ -7,13 +7,7 @@ function formatDate(date, sep) {
   return `${yyyy}${sep}${mm}${sep}${dd}`;
 }
 
-function replaceDate() {
-  const lastModifiedDate = new Date(document.lastModified);
-  $("#last_modified_date").text(
-    formatDate(lastModifiedDate, "/")
-  );
-}
-
 document.addEventListener("DOMContentLoaded", function() {
-  replaceDate();
+  const lastModifiedDate = new Date(document.lastModified);
+  document.getElementById("last_modified_date").textContent = formatDate(lastModifiedDate, "/");
 });
