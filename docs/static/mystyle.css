@@ -21,3 +21,7 @@ div#header #header_right {
 .publication_element {
 	display: inline;
 }
+
+.bibtex-citation-block strong {
+  text-decoration: underline;
+}

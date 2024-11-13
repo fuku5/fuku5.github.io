@@ -40,7 +40,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Education
-- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan. [<a href="/phd_thesis.html">thesis (in Japanese)</a>]
+- 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan. [[thesis (in Japanese)](/phd_thesis.html)]
 - 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
 - 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
@@ -53,11 +53,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Activities
-- 2024 Aug. **Special session organizer** (<a href="https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf">Bridging Trust and Context: Dynamic Interactions in HAI</a>) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
+- 2024 Aug. **Special session organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf)) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
 - 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
-- 2023 Aug. **Special session organizer** (<a href="https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf">Designing trustworthy human agent interaction in dynamic context</a>) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2022 Dec. **Workshop organizer** (<a href="https://sites.google.com/view/chai-workshop22">Cognitive Human-agent Interaction</a>) at the International Conference of Human-agent Interaction 2022. 
+- 2023 Aug. **Special session organizer** ([Designing trustworthy human agent interaction in dynamic context](https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf)) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2022 Dec. **Workshop organizer** ([Cognitive Human-agent Interaction](https://sites.google.com/view/chai-workshop22)) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 ## Publications
@@ -70,9 +70,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
 1. \cite{10343151}{[0,1,4]}
-1. \cite{corequery}{[2,7]} <a href="https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing">PDF</a>
+1. \cite{corequery}{[2,7]} [PDF](https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing)
 1. \cite{10024779}{[6,7]}
-1. \cite{9903483}{[2,3]} <a href="https://drive.google.com/file/d/15gIiAU_cUPUeTjXJDpDe0PEXJ9nE_Id9/view?usp=sharing">PDF</a>
+1. \cite{9903483}{[2,3]} [PDF](https://drive.google.com/file/d/15gIiAU_cUPUeTjXJDpDe0PEXJ9nE_Id9/view?usp=sharing)
 1. \cite{9777698}{[0,3]}
 1. \cite{10.3389/frobt.2022.783863}{[0,3,4,5]}
 
@@ -80,24 +80,24 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 ### Conferences (Refereed)
 1. \cite{icres2024}{[0,1,4]}
 1. \cite{icres2024maehigashi}{[0,1,4]}
-1. \cite{fukuchi2024dynamic}{[0,1,4]} <a href="https://www.researchgate.net/publication/385414210_User_Decision_Guidance_with_Selective_Explanation_Presentation_from_Explainable-AI">PDF</a>
-1. \cite{maehigashi2024ro-man}{[0,1,4]} <a href="https://www.researchgate.net/publication/383605482_Empirical_investigation_of_how_robot_head_motion_influences_acceptance_of_heatmap-based_XAI_Designing_XAI_with_social_robot">PDF</a>
+1. \cite{fukuchi2024dynamic}{[0,1,4]} [PDF](https://www.researchgate.net/publication/385414210_User_Decision_Guidance_with_Selective_Explanation_Presentation_from_Explainable-AI)
+1. \cite{maehigashi2024ro-man}{[0,1,4]} [PDF](https://www.researchgate.net/publication/383605482_Empirical_investigation_of_how_robot_head_motion_influences_acceptance_of_heatmap-based_XAI_Designing_XAI_with_social_robot)
 1. \cite{10.1145/3613905.3650802}{[0,1,4]}
 1. \cite{hai2023maehigashi}{[0,1,4]}
-1. \cite{iros2023}{[0,1,4]} <a href="https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing">PDF</a> <a href="https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing">Video</a> (<strong>SIYA-IROS 2023 award. 100,000 JPY</strong>)
+1. \cite{iros2023}{[0,1,4]} [PDF](https://drive.google.com/file/d/1DO4z8m2zwKzlRVqFsWJZucYpXdz5jC9D/view?usp=sharing) [Video](https://drive.google.com/file/d/1Dbnzoq3CQYGCWkARIxozvI_hk6rgCpz9/view?usp=sharing) ([**SIYA-IROS 2023 award. 100,000 JPY**](https://sice-si.org/siya-iros_winners/))
 1. \cite{maehigashi2023roman}{[0,1,4]}
 1. \cite{https://doi.org/10.48550/arxiv.2302.09995}{[0,1,4]}
 1. \cite{maehigashi2023modeling}{[0,1,4]}
-1. \cite{10.1145/3527188.3561917}{[2,3]} (Acceptance rate: 39%. <strong>Best paper award.</strong>)
+1. \cite{10.1145/3527188.3561917}{[2,3]} (Acceptance rate: 39%. [**Best paper award**](https://hai-conference.net/hai2022/tag/best-paper-award/))
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
-1. \cite{10.1145/3490099.3511116}{[2,3]} (<strong>Acceptance rate: 24.5%.</strong>)
+1. \cite{10.1145/3490099.3511116}{[2,3]} (**Acceptance rate: 24.5%**)
 1. \cite{10.1145/3472307.3484668}{[4,5,7]}
 1. \cite{Yoshino_2021}{[7]}
-1. \cite{Matsumori_2021_ICCV}{[7]} (<strong>Acceptance rate: 25.9%.</strong>)
+1. \cite{Matsumori_2021_ICCV}{[7]} (**Acceptance rate: 25.9%**)
 1. \cite{Otake_2021}{[7]}
 1. \cite{Fukuchi_2020}{[2]}
-1. \cite{DBLP:conf/hai/MatsumoriFOI18}{[4,7]} (<strong>Long presentation acceptance rate: 29%.</strong>)
-1. \cite{Fukuchi_2018}{[0,3,4,5]} (<strong>Long presentation acceptance rate: 29%.</strong>)
+1. \cite{DBLP:conf/hai/MatsumoriFOI18}{[4,7]} (**Long presentation acceptance rate: 29%**)
+1. \cite{Fukuchi_2018}{[0,3,4,5]} (**Long presentation acceptance rate: 29%**)
 1. \cite{Fukuchi_2017iconip}{[0,3]}
 1. \cite{Fukuchi_2017}{[0,3]}
 
@@ -120,11 +120,11 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 1. \cite{jsai2023}{[0,1,4]}
 1. \cite{jsai2023maehigashi}{[0,1,4]}
 1. \cite{interaction23_hongo}{[7]}
-1. \cite{hais2023}{[0,1,4]} (<strong>HAI-researcher Encouragement Award</strong>)
+1. \cite{hais2023}{[0,1,4]} ([**HAI-researcher Encouragement Award**](https://hai-conference.net/symp2023/awards.php))
 1. \cite{sm2022}{[6]}
 1. \cite{hasegawa2022advantage}{[2,3]}
 1. \cite{tsuchiya2022}{[4,5,7]}
-1. \cite{p_and_p}{[0,3]} (<strong>最優秀発表賞</strong>)
+1. \cite{p_and_p}{[0,3]} ([**最優秀発表賞**](http://perceptionpsychonomicmodeling.web.fc2.com/PANDP20220319_1.html))
 1. \cite{tsuchiya2021}{[4,5,7]}
 1. \cite{maekawa2021}{[7]}
 1. \cite{uchiumi2021}{[4]}
@@ -152,9 +152,9 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
-1. \cite{jimin_reverse1}{[8]} <a href="/files/206994_1.pdf#page=8">PDF</a>  <a href="/files/206994_2.pdf#page=1">SLIDES</a>
-1. \cite{jimin_reverse2}{[8]} <a href="/files/206994_1.pdf#page=27">PDF</a> <a href="/files/206994_2.pdf#page=11">SLIDES</a>
-1. \cite{jimin_reverse3}{[8]} <a href="/files/206994_1.pdf#page=54">PDF</a> <a href="/files/206994_2.pdf#page=35">SLIDES</a>
+1. \cite{jimin_reverse1}{[8]} [PDF](/files/206994_1.pdf#page=8)  [SLIDES](/files/206994_2.pdf#page=1)
+1. \cite{jimin_reverse2}{[8]} [PDF](/files/206994_1.pdf#page=27) [SLIDES](/files/206994_2.pdf#page=11)
+1. \cite{jimin_reverse3}{[8]} [PDF](/files/206994_1.pdf#page=54) [SLIDES](/files/206994_2.pdf#page=35)
 1. \cite{20192019}
 1. 會田慎一郎, 姉川将之, 奥山裕也, 河口大輝, <span class="underdot">福地庸介</span>, IBM東京ローカルスポンサー賞,  JPHACKS 2017. (飲み会参加者の情報をセンシングして飲み会を盛り上げるアプリケーションを開発し発表 2017/10/29).
 </div>
@@ -164,8 +164,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ## Grants
-1. "説明可能AIはユーザをナッジできるか (Can Explainable AI nudge users?)", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680,000 JPY, 2024/04-2027/03. [<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/">URL</a>]
-1. "説明の選択的提示による信頼されるXAIの開発 (Development of Trustworthy Explainable AI with Explanation Selection)", AIP Challenge, 1,000,000 JPY, 2023 (<strong>AIP Network Laboratory Director's Award</strong>).
+1. "説明可能AIはユーザをナッジできるか (Can Explainable AI nudge users?)", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680,000 JPY, 2024/04-2027/03. [[URL](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/)]
+1. "説明の選択的提示による信頼されるXAIの開発 (Development of Trustworthy Explainable AI with Explanation Selection)", AIP Challenge, 1,000,000 JPY, 2023 ([**AIP Network Laboratory Director's Award**](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2023.html)).
 1. "心の読み合いにもとづく非言語表現の計算論的理解 (Computational Comprehension of Non-verbal Expressions on Basis of Mutual Mind-reading)", KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
 1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得 (Grounding Verbs for Explaining Autonomous Agent's Actions)", The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
 1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
