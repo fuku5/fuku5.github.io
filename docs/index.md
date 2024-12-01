@@ -78,7 +78,6 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Conferences (Refereed)
-1. \cite{10.1145/3687272.3690879}{[0,1,4]}
 1. \cite{10.1145/3687272.3688328}{[0,1,4]}
 1. \cite{icres2024}{[0,1,4]}
 1. \cite{icres2024maehigashi}{[0,1,4]}
@@ -104,7 +103,8 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 1. \cite{Fukuchi_2017}{[0,3]}
 
 
-
+### Abstracts, Posters
+1. \cite{10.1145/3687272.3690879}{[0,1,4]}
 
 ### Preprints
 1. \cite{fukuchi2024emphasis}{[0,1,4]}
