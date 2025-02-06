@@ -17,13 +17,15 @@ Email: fukuchi (at) tmu.ac.jp <br>
 </div>
 
 ## Research Interests
-My research interests lie in human-AI interaction, with a focus on facilitating effective, natural, and trustworthy collaboration between humans and AI systems.
+My primary research interests lie in human-AI interaction, with a focus on facilitating effective, natural, and trustworthy collaboration between humans and AI systems.
 My research involves the integration of computational models that capture the dynamics of human cognition, enabling AI-driven systems to socially interact with non-expert human users.
 Particularly, I create AI systems/agents/interfaces that are capable of
   - developing mutual understandings between humans and AIs 
   - calibrating human trust/reliance
   - nudging a user decision with dynamic explanation biasing
   - mind-aware communication
+
+Additionally, I am interested in computational modeling of human cognition by integrating Bayesian models and machine learning.
 
 ## Current Positions
 - 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan.
