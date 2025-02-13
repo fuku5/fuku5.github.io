@@ -55,11 +55,15 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ## Activities
-- 2024 Aug. **Special session organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf)) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
-- 2024 May. **Award Co-Chair**, the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
+- 2025 Aug. **Special session co-organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://www.ro-man2025.org/contributing/specialsessionpaper)) at the 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025).
+- 2025 May **Award Co-Chair** at the 39th Annual Conference of the Japanese Society for Artificial Intelligence.
+- 2025 May **Organized session co-organizer** ([Human-AI Interaction with Trust and "NATTOKU"](https://www.ai-gakkai.or.jp/jsai2025/os/#OS-14)) at the 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2025).
+- 2025 Mar. **Award Co-Chair** at HAI Symposium 2025.
+- 2024 Aug. **Special session co-organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://static1.squarespace.com/static/654d5a656558fe2c0e9166e6/t/65d3989c3b997079022e4602/1708365981366/yd467.pdf)) at the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2024).
+- 2024 May **Award Co-Chair** at the 38th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2023 May - Present **Reverse mentor**,  Liberal Democratic Party of Japan.
-- 2023 Aug. **Special session organizer** ([Designing trustworthy human agent interaction in dynamic context](https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf)) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-- 2022 Dec. **Workshop organizer** ([Cognitive Human-agent Interaction](https://sites.google.com/view/chai-workshop22)) at the International Conference of Human-agent Interaction 2022. 
+- 2023 Aug. **Special session co-organizer** ([Designing trustworthy human agent interaction in dynamic context](https://ro-man2023.org/resources/files/Designing%20trustworthy%20human%20agent%20interaction%20in%20dynamic%20context_compressed.pdf)) at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
+- 2022 Dec. **Workshop co-organizer** ([Cognitive Human-agent Interaction](https://sites.google.com/view/chai-workshop22)) at the International Conference of Human-agent Interaction 2022. 
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 ## Publications
