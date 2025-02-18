@@ -34,3 +34,4 @@ A Study on Communication Models for Behavior Alignment Between Humans and AI Age
 
   The second study proposes an <strong>inferred-agent</strong> model, which infers an AI agent's mental state attributed by a human observing the agent's motion to enhance behavior alignment communication. The model effectively handles an observation asymmetry between a human and an agent to infer an attributed mental state and generates legible motion, a motion that conveys the agent's goal. Experimental results show that the inferred-agent model can enable human observers to quickly infer an agent's goal by taking into account an observation asymmetry.
 
+[Back](/)
