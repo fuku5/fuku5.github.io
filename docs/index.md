@@ -121,6 +121,9 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ### Domestic conferences
+1. \cite{HAIS2025_conspiracy}{[4]}
+1. \cite{HAIS2025_XAI}{[0,1]}
+1. \cite{HAIS2025_ito}{[7]}
 1. \cite{VRGakkai2024}
 1. \cite{VRGakkai2024_2}
 1. \cite{jsai_fukuchi_2024}{[0,1,4]}
