@@ -33,7 +33,7 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ## Professional Experience
-- 2022 Apr. - 2024 Mar. **Project Researcher**, National Institute of Informatics, Japan.
+- 2022 Apr. - 2024 Mar. **Project Researcher**, National Institute of Informatics, Japan. [[Project page]](https://ymdsij-lab.com/tid-crest/)
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2021 Mar. **Assistant Professor**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2019 Sep. **Teaching Assistant**, Tokyo University of Technology, Japan.
