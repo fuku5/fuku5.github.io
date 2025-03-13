@@ -177,11 +177,12 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ## Grants
-1. "説明可能AIはユーザをナッジできるか (Can Explainable AI nudge users?)", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680,000 JPY, 2024/04-2027/03. [[URL](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/)]
-1. "説明の選択的提示による信頼されるXAIの開発 (Development of Trustworthy Explainable AI with Explanation Selection)", AIP Challenge, 1,000,000 JPY, 2023 ([**AIP Network Laboratory Director's Award**](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2023.html)).
-1. "心の読み合いにもとづく非言語表現の計算論的理解 (Computational Comprehension of Non-verbal Expressions on Basis of Mutual Mind-reading)", KLL Ph.D. Program Research Grant, 300,000 JPY, 2021.
-1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得 (Grounding Verbs for Explaining Autonomous Agent's Actions)", The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120,000 JPY, 2021.
-1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000,000 JPY, 2021．
+1. "誤信念を自ら強化するウェブメディア探索の認知シミュレーション (Simulating Cognition in Web-based False-belief Confirmation)", The Telecommunications Advancement Foundation, 1,393k JPY, 2025/04-2026/03.
+1. "説明可能AIはユーザをナッジできるか (Can Explainable AI nudge users?)", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680k JPY, 2024/04-2027/03. [[URL](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/)]
+1. "説明の選択的提示による信頼されるXAIの開発 (Development of Trustworthy Explainable AI with Explanation Selection)", AIP Challenge, 1,000k JPY, 2023 ([**AIP Network Laboratory Director's Award**](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2023.html)).
+1. "心の読み合いにもとづく非言語表現の計算論的理解 (Computational Comprehension of Non-verbal Expressions on Basis of Mutual Mind-reading)", KLL Ph.D. Program Research Grant, 300k JPY, 2021.
+1. "説明可能AIの実現に向けた自律エージェントの行動説明表現の獲得 (Grounding Verbs for Explaining Autonomous Agent's Actions)", The Keio University Doctorate Student Grant-in-Aid Program from Ushioda Memorial Fund, 120k JPY, 2021.
+1. 門倉 悠真 (代表), 松中 玲子, 福地 庸介, ”乳幼児向け動画コンテンツの継続的視聴による学習効果”, CREST Colab, 2,000k JPY, 2021．
 
 
 
