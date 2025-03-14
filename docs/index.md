@@ -84,6 +84,7 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ### Conferences (Refereed)
+1. \cite{srithammee2025investigating}
 1. \cite{10.2312:egve.20241362}
 1. \cite{10.1145/3687272.3688328}{[0,1,4]}
 1. \cite{icres2024}{[0,1,4]}
@@ -121,11 +122,17 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ### Domestic conferences
+1. \cite{BioX25_nakamura}
 1. \cite{HAIS2025_conspiracy}{[4]}
 1. \cite{HAIS2025_XAI}{[0,1]}
 1. \cite{HAIS2025_ito}{[7]}
+1. \cite{VirtualGakkai2024}
 1. \cite{VRGakkai2024}
 1. \cite{VRGakkai2024_2}
+1. \cite{kishi2024password}
+1. \cite{wada2024ui}
+1. \cite{tsuchiya2024gaze}
+1. \cite{miyamoto2024telepresence}
 1. \cite{jsai_fukuchi_2024}{[0,1,4]}
 1. \cite{jsai_maehigashi_2024}{[0,1,4]}
 1. \cite{jsdp2024}{[6]} 
