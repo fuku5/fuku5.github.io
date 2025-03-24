@@ -21,7 +21,8 @@ export function author(record) {
 export function toText(record) {
     let author;
     if (record.author.length > 1) {
-        author = record.author.slice(0, -1).join(', ') + ', and ' + record.author[record.author.length - 1];
+        // author = record.author.slice(0, -1).join(', ') + ', and ' + record.author[record.author.length - 1];
+        author = record.author.join(', ');
     } else {
         author = record.author[0];
     }
