@@ -49,6 +49,7 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ## Membership
+- 2025 Apr. - Present Japanese Cognitive Science Society
 - 2018 Apr. - Present Young Researcher Association of Japanese Cognitive Science Society.
 - 2017 Apr. - Present The Japanese Society for Artificial Intelligence
 
