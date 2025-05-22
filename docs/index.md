@@ -77,6 +77,7 @@ Additionally, I am interested in computational modeling of human cognition by in
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
+1. \cite{11006725}{[6]} (Early access)
 1. \cite{10343151}{[0,1,4]}
 1. \cite{corequery}{[2,7]} [PDF](https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing)
 1. \cite{10024779}{[6,7]}
