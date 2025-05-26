@@ -69,14 +69,15 @@ Additionally, I am interested in computational modeling of human cognition by in
 - 2020 Apr. - 2022 Mar. **Vice-chair**, Young Researcher Association of Japanese Cognitive Science Society.
 
 ## Publications
-<div id="data-const" style="display:none;" data-keyword-list='["Explainable AI", "AI Reliability Communication", "Intelligent UI", "Reinforcement learning", "Cognitive modeling", "Theory of mind", "Education", "Dialogue and context", "Policy making"]'></div>
+<div id="data-const" style="display:none;" data-keyword-list='["Explainable AI", "AI Reliability Communication", "Intelligent UI", "Reinforcement learning", "Cognitive modeling", "Theory of mind", "Education", "Dialogue and context", "Policy making", "Virtual reality"]'></div>
 <div id="keyword-selector-block"></div>
 <!-- 
   keywords: 
-  [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context')]
+  [(0, 'Explainable AI'), (1, 'AI Reliability Communication'), (2, 'Intelligent UI'), (3, 'Reinforcement learning'), (4, 'Cognitive modeling'), (5, 'Theory of mind'), (6, 'Education'), (7, 'Dialogue and context'), (8, 'Policy making'), (9, 'Virtual reality')]
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
+1. \cite{11015485}{[9]} (Early access)
 1. \cite{11006725}{[6]} (Early access)
 1. \cite{10343151}{[0,1,4]}
 1. \cite{corequery}{[2,7]} [PDF](https://drive.google.com/file/d/1fWg1RUwhl5z8XPBQUCxBctV1O8SPNr-P/view?usp=sharing)
@@ -87,8 +88,8 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ### Conferences (Refereed)
-1. \cite{srithammee2025investigating}
-1. \cite{10.2312:egve.20241362}
+1. \cite{srithammee2025investigating}{[9]}
+1. \cite{10.2312:egve.20241362}{[9]}
 1. \cite{10.1145/3687272.3688328}{[0,1,4]}
 1. \cite{icres2024}{[0,1,4]}
 1. \cite{icres2024maehigashi}{[0,1,4]}
