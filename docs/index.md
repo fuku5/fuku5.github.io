@@ -88,6 +88,7 @@ Additionally, I am interested in computational modeling of human cognition by in
 
 
 ### Conferences (Refereed)
+1. \cite{cogsci2025}{[4]} (In press)
 1. \cite{srithammee2025investigating}{[9]}
 1. \cite{10.2312:egve.20241362}{[9]}
 1. \cite{10.1145/3687272.3688328}{[0,1,4]}
