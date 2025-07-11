@@ -58,6 +58,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ## Activities
+- 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025).
+- 2025 Nov. **Workshop co-organizer** (HAI Horizons: Showcasing Early-Career Research from Non-Native English Speakers) at the 13th International Conference on Human-Agent Interaction (HAI 2025).
 - 2025 Aug. **Special session co-organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://www.ro-man2025.org/contributing/specialsessionpaper)) at the 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025).
 - 2025 May **Award Co-Chair** at the 39th Annual Conference of the Japanese Society for Artificial Intelligence.
 - 2025 May **Organized session co-organizer** ([Human-AI Interaction with Trust and "NATTOKU"](https://www.ai-gakkai.or.jp/jsai2025/os/#OS-14)) at the 39th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2025).
@@ -176,7 +178,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Others
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
-1. IEEE RO-MAN Reviewer Award, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
+1. **IEEE RO-MAN Reviewer Award**, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
 1. \cite{jimin_reverse1}{[8]} [PDF](/files/206994_1.pdf#page=8)  [SLIDES](/files/206994_2.pdf#page=1)
