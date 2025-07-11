@@ -128,6 +128,7 @@ Particularly, I create AI systems/agents/interfaces that are capable of
 
 
 ### Domestic conferences
+1. \cite{JSAI2025}{[0,1,4]}
 1. \cite{BioX25_nakamura}
 1. \cite{HAIS2025_conspiracy}{[4]}
 1. \cite{HAIS2025_XAI}{[0,1]}
