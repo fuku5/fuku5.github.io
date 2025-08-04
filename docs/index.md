@@ -91,7 +91,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Conferences (Refereed)
-1. \cite{cogsci2025}{[4]} (In press)
+1. \cite{cogsci2025}{[4]}
 1. \cite{srithammee2025investigating}{[9]}
 1. \cite{10.2312:egve.20241362}{[9]}
 1. \cite{10.1145/3687272.3688328}{[0,1,4]}
@@ -181,6 +181,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 1. **IEEE RO-MAN Reviewer Award**, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
+1. \cite{cogsci2024maehigashi}
 1. \cite{jimin_reverse1}{[8]} [PDF](/files/206994_1.pdf#page=8)  [SLIDES](/files/206994_2.pdf#page=1)
 1. \cite{jimin_reverse2}{[8]} [PDF](/files/206994_1.pdf#page=27) [SLIDES](/files/206994_2.pdf#page=11)
 1. \cite{jimin_reverse3}{[8]} [PDF](/files/206994_1.pdf#page=54) [SLIDES](/files/206994_2.pdf#page=35)
