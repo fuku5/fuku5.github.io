@@ -121,6 +121,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 1. \cite{10.2312:egve.20241400}
 1. \cite{10.1145/3687272.3690879}{[0,1,4]}
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
+1. \cite{cogsci2024maehigashi}
 1. \cite{10.1145/3472307.3484668}{[4,5,7]}
 
 ### Preprints
@@ -181,7 +182,6 @@ Particularly, I create AI systems/agents/interfaces that involve
 1. **IEEE RO-MAN Reviewer Award**, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
-1. \cite{cogsci2024maehigashi}
 1. \cite{jimin_reverse1}{[8]} [PDF](/files/206994_1.pdf#page=8)  [SLIDES](/files/206994_2.pdf#page=1)
 1. \cite{jimin_reverse2}{[8]} [PDF](/files/206994_1.pdf#page=27) [SLIDES](/files/206994_2.pdf#page=11)
 1. \cite{jimin_reverse3}{[8]} [PDF](/files/206994_1.pdf#page=54) [SLIDES](/files/206994_2.pdf#page=35)
