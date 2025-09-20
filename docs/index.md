@@ -91,6 +91,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Conferences (Refereed)
+1. \cite{Miyamoto2025}{[9]}
 1. \cite{cogsci2025}{[4]} (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
 1. \cite{srithammee2025investigating}{[9]}
 1. \cite{10.2312:egve.20241362}{[9]}
