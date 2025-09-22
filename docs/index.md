@@ -132,6 +132,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Domestic conferences
+1. \cite{JCSS2025}{[4]}
 1. \cite{JSAI2025}{[0,1,4]}
 1. \cite{BioX25_nakamura}
 1. \cite{HAIS2025_conspiracy}{[4]}
