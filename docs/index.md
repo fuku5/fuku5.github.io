@@ -196,6 +196,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ## Grants
+1. "オンライン言語活動の歪みを再現する認知的AIエージェント (Cognitive AI Agent for Simulating Biases in Online Language Activities)", Japan Science and Technology Agency (JST), ACT-X, 4,500k JPY, 2025/10-2028/03.
 1. "誤信念を自ら強化するウェブメディア探索の認知シミュレーション (Cognitive Simulation of Web-based False-belief Confirmation)", The Telecommunications Advancement Foundation, 1,393k JPY, 2025/04-2026/03.
 1. "説明可能AIはユーザをナッジできるか (Can Explainable AI nudge users?)", KAKENHI Grant-in-Aid for Early-Career Scientists, 24K20846, 4,680k JPY, 2024/04-2027/03. [[URL](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K20846/)]
 1. "説明の選択的提示による信頼されるXAIの開発 (Development of Trustworthy Explainable AI with Explanation Selection)", AIP Challenge, 1,000k JPY, 2023 ([**AIP Network Laboratory Director's Award**](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2023.html)).
