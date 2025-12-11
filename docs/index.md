@@ -30,7 +30,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 <!-- Additionally, I am interested in computational modeling of human cognition in human-computer interaction by integrating Bayesian models and machine learning. -->
 
 ## Current Positions
-- 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan.
+- 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan. [[Human-computer Interaction Lab]](https://nishilab.fpark.tmu.ac.jp/)
 - 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
 
 
