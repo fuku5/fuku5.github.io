@@ -119,6 +119,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Abstracts, Posters
+1. \cite{MeetupTakao}{[4]}
 1. \cite{10.2312:egve.20241400}
 1. \cite{10.1145/3687272.3690879}{[0,1,4]}
 1. <span class="underdot">Yosuke Fukuchi</span>, Michita Imai, "Grounding Command While Inferring the Goal Behind it." International Conference on Human-agent Interaction 2022 Workshop on Cognitive Human-agent Interaction, 2022.
