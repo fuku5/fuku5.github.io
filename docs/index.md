@@ -58,8 +58,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ## Activities
-- 2025 Dec. **Committee member** at [CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
-- 2025 Nov. **Local co-chair** at [the 13th International Conference on Human-Agent Interaction (HAI 2025)](https://hai-conference.net/hai2025/).
+- 2025 Dec. **Committee member** at CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025 [Link](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
+- 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025) [Link](https://hai-conference.net/hai2025/).
 - 2025 Nov. **Workshop co-organizer** [HAI Horizons: Showcasing Early-Career Research from Non-Native English Speakers](https://sites.google.com/view/hai-horizons) at the 13th International Conference on Human-Agent Interaction (HAI 2025).
 - 2025 Aug. **Special session co-organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://www.ro-man2025.org/contributing/specialsessionpaper)) at the 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025).
 - 2025 May **Award Co-Chair** at the 39th Annual Conference of the Japanese Society for Artificial Intelligence.
