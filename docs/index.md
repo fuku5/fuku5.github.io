@@ -58,8 +58,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ## Activities
-- 2025 Dec. **Committee member** at CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025 [Link](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
-- 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025) [Link](https://hai-conference.net/hai2025/).
+- 2025 Dec. **Committee member** at CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025 [[Link]](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
+- 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025) [[Link]](https://hai-conference.net/hai2025/).
 - 2025 Nov. **Workshop co-organizer** [HAI Horizons: Showcasing Early-Career Research from Non-Native English Speakers](https://sites.google.com/view/hai-horizons) at the 13th International Conference on Human-Agent Interaction (HAI 2025).
 - 2025 Aug. **Special session co-organizer** ([Bridging Trust and Context: Dynamic Interactions in HAI](https://www.ro-man2025.org/contributing/specialsessionpaper)) at the 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025).
 - 2025 May **Award Co-Chair** at the 39th Annual Conference of the Japanese Society for Artificial Intelligence.
@@ -92,6 +92,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Conferences (Refereed)
+1. \cite{10.1145/3765766.3765789}{[7]}
 1. \cite{Miyamoto2025}{[9]}
 1. \cite{cogsci2025}{[4]} (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
 1. \cite{srithammee2025investigating}{[9]}
@@ -183,6 +184,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Others
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
+1. \cite{10.1145/3765766.3765885}
 1. **IEEE RO-MAN Reviewer Award**, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
 1. \cite{cogsciMeetUp2024}
