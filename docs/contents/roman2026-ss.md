@@ -3,7 +3,7 @@ title: "[CfP] Computational Cognitive Dynamics in Human-Robot/AI/Agent Interacti
 og_image: "/contents/ChatGPT%20Image%202026年2月15日%2014_13_54.png"
 ---
 
-# [Call for Paper (Special Session)]  <br> Computational Cognitive Dynamics in Human-Robot/AI/Agent Interaction: Subjectivity, Context, and Bounded Rationality
+# [Call for Papers (Special Session)]  <br> Computational Cognitive Dynamics in Human-Robot/AI/Agent Interaction: Subjectivity, Context, and Bounded Rationality
 IEEE RO-MAN 2026@Kitakyushu, Japan [<a href="https://ro-man2026.org/">Link</a>]
 
 
