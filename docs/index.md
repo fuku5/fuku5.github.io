@@ -59,6 +59,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Activities
 - 2026 Nov. **Workshop chair** at the 14th International Conference on Human-Agent Interaction (HAI 2026).
+- 2026 Aug. **Special session co-organizer** ([Computational Cognitive Dynamics in Human-Robot/AI/Agent Interaction: Subjectivity, Context, and Bounded Rationality](/contents/roman2026-ss)) at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026).
+- 2026 Jun. **Organized session co-organizer** ([Human-AI Interaction with Trust and "NATTOKU"](https://www.ai-gakkai.or.jp/jsai2026/os/#os-4)) at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026).
 - 2026 Feb. **Award Co-Chair** at HAI Symposium 2026.
 - 2025 Dec. **Committee member** at CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025 [[Link]](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
 - 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025) [[Link]](https://hai-conference.net/hai2025/).
