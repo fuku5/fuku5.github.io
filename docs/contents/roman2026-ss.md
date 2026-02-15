@@ -14,3 +14,10 @@ This session seeks contributions that connect empirical phenomena to principled 
 ## Submission
 - Instruction: [https://ro-man2026.org/papersubmission/](https://ro-man2026.org/papersubmission/)
 - Code for this session: j41h3
+
+## Organizers
+- Yosuke Fukuchi* [Tokyo Metropolitan University]
+- Kazunori Terada [Gifu University]
+- Michita Imai [Keio University]
+- Tetsunari Inamura [Tamagawa University]
+- Chie Hieida [Nara Institute of Science and Technology]
