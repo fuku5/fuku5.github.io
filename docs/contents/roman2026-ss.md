@@ -18,7 +18,7 @@ This session seeks contributions that connect empirical phenomena to principled 
 
 ## Submission
 - Instruction: [https://ro-man2026.org/papersubmission/](https://ro-man2026.org/papersubmission/)
-- **Important! Don't forget!** Submission code for this session: j41h3
+- Submission code for this session: j41h3 (**IMPORTANT!**)
 
 ## Organizers
 - Yosuke Fukuchi* [Tokyo Metropolitan University]
