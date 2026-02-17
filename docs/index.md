@@ -189,6 +189,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Others
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
+1. \cite{20252025.051}
 1. \cite{10.1145/3765766.3765885}
 1. **IEEE RO-MAN Reviewer Award**, the 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024.
 1. \cite{CCWS2024}
