@@ -86,6 +86,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
+1. \cite{11458024}{[9]}
 1. \cite{11015485}{[9]}
 1. \cite{11006725}{[6]}
 1. \cite{10343151}{[0,1,4]}
@@ -97,8 +98,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Conferences (Refereed)
-1. \cite{hri2026}{[]}
-1. \cite{NattamonKST2026}{[]}
+1. \cite{hri2026}{[4,5]}
+1. \cite{NattamonKST2026}{[9]}
 1. \cite{chanonKST2026}{[]}
 1. \cite{PeerasakKST2026}{[]}
 1. \cite{10.1145/3765766.3765789}{[7]}
