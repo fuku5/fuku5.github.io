@@ -25,6 +25,7 @@ Particularly, I create AI systems/agents/interfaces that involve
   - calibrating human trust/reliance
   - nudging a user decision with dynamic explanation biasing
   - mind-aware communication
+  - AI's self-awareness
   - cognitive AI agents
 
 <!-- Additionally, I am interested in computational modeling of human cognition in human-computer interaction by integrating Bayesian models and machine learning. -->
