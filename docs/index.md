@@ -87,7 +87,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
-1. \cite{11458024}{[9]}
+1. \cite{11458024}{[9]} (Special issue on IEEE VR)
 1. \cite{11015485}{[9]}
 1. \cite{11006725}{[6]}
 1. \cite{10343151}{[0,1,4]}
