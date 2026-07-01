@@ -99,6 +99,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Conferences (Refereed)
+1. \cite{fukuchi2026fexplorer}{[4]} (In press)
 1. \cite{hri2026}{[4,5]}
 1. \cite{NattamonKST2026}{[9]}
 1. \cite{chanonKST2026}{[]}
