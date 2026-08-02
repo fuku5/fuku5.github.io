@@ -240,14 +240,12 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 <script type="module">
-// BibTeX
-import { replaceCitations } from './static/bibtex.js';
 import { initKeywordSelector } from './static/index.js';
-const bibtexUrl = '/files/publications.bib'
 
-document.addEventListener("DOMContentLoaded", function() {
-  replaceCitations(bibtexUrl).then(initKeywordSelector);
-});
+document.addEventListener(
+  "DOMContentLoaded",
+  initKeywordSelector
+);
 </script>
 
 <script src="./static/modify_date.js"></script>
