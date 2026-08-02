@@ -40,6 +40,8 @@ jobs:
 
       - name: Expand BibTeX citations
         run: |
+          sudo chown -R "$(id -u):$(id -g)" ./_site
+          set -o pipefail
           node scripts/render-bib.mjs 2>&1 | tee /tmp/render-bib.log || {
             message=$(tr '\n' ' ' < /tmp/render-bib.log)
             echo "::error::$message"
