@@ -134,6 +134,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Abstracts, Posters
+1. \cite{kishi2026cogsci}
 1. \cite{serizawaWHC}
 1. \cite{MeetupTakao}{[4]}
 1. \cite{10.2312:egve.20241400}
@@ -149,6 +150,10 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Domestic conferences
+1. \cite{Fukuchi2026HumanAICollaboration}{[]}
+1. \cite{Fukuchi2026FreeEnergyNeuro}{[]}
+1. \cite{Wada2026VR}{[]}
+1. \cite{Tsuchiya2026GenerativeAI}{[]}
 1. \cite{ikeda_llm_gaze_thought}{[]}
 1. \cite{tanaka_llm_ui_heuristic}{[]}
 1. \cite{minato_ai_timepressure}{[]}
