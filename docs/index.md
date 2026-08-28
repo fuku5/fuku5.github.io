@@ -208,6 +208,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Others
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
+1. \cite{Fukuchi2026ROMANWorkshop} (**Invited talk**)
 1. \cite{ccsr2026} (**Invited talk**)
 1. \cite{CogSciMeetup2025}
 1. \cite{20252025.051}
