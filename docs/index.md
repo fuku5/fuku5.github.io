@@ -102,7 +102,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ### Conferences (Refereed)
 1. \cite{fukuchi2026personalityAwareGuidance}{[0,1,4]} (In press)
-1. \cite{fukuchi2026fexplorer}{[4]}
+1. \cite{fukuchi2026fexplorer}{[4]} (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
 1. \cite{hri2026}{[4,5]}
 1. \cite{NattamonKST2026}{[9]}
 1. \cite{chanonKST2026}{[]}
@@ -136,7 +136,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Abstracts, Posters
-1. \cite{kishi2026cogsci} (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
+1. \cite{kishi2026cogsci}
 1. \cite{serizawaWHC}
 1. \cite{MeetupTakao}{[4]}
 1. \cite{10.2312:egve.20241400}
