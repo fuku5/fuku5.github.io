@@ -61,7 +61,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 ## Activities
 - 2026 Nov. **Workshop co-organizer** ([HAI Horizons 2.0: Empowering Early-Career Researchers to Share Their Passion and Shape the Future of Human-Agent Interaction](https://sites.google.com/view/hai-horizons-2-0/home)) at the 14th International Conference on Human-Agent Interaction (HAI 2026).
 - 2026 Nov. **Workshop chair** at the 14th International Conference on Human-Agent Interaction (HAI 2026).
-- 2026 Aug. **Organized session co-organizer** ([Cognitive Dynamics of Reflection: Towards Computational Understanding of Creativity, Psychiatry, and Projection](https://pub.confit.atlas.jp/ja/event/jcss2026/session/RXWLt3RQ)) at the 43rd Annual Meeting of Japanese Cognitive Science Society (JCSS 2026).
+- 2026 Aug.–Sep. **Organized session co-organizer** ([Cognitive Dynamics of Reflection: Towards Computational Understanding of Creativity, Psychiatry, and Projection](https://pub.confit.atlas.jp/ja/event/jcss2026/session/RXWLt3RQ)) at the 43rd Annual Meeting of Japanese Cognitive Science Society (JCSS 2026).
 - 2026 Aug. **Special session co-organizer** ([Computational Cognitive Dynamics in Human-Robot/AI/Agent Interaction: Subjectivity, Context, and Bounded Rationality](/contents/roman2026-ss)) at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026).
 - 2026 Jun. **Organized session co-organizer** ([Human-AI Collaborative Decision-making with Trust and Theory of Mind](https://www.ai-gakkai.or.jp/jsai2026/os/#os-4)) at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026).
 - 2026 Feb. **Award Co-Chair** at HAI Symposium 2026.
@@ -152,6 +152,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Domestic conferences
+1. \cite{JCSS2026ReflectionScience}{[4]}
 1. \cite{JSAI2026Fairness}{[]}
 1. \cite{Fukuchi2026HumanAICollaboration}{[]}
 1. \cite{Fukuchi2026FreeEnergyNeuro}{[]}
