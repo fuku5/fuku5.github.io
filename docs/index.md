@@ -3,7 +3,7 @@
 <div id="header_right">
 <a href="https://scholar.google.co.jp/citations?user=If95M5sAAAAJ">[Google Scholar]</a>
 <a href="https://orcid.org/0000-0002-7514-9040">[ORCID]</a>
-<a href="https://www.researchgate.net/profile/Yosuke-Fukuchi">[ReserchGate]</a>
+<a href="https://www.researchgate.net/profile/Yosuke-Fukuchi">[ResearchGate]</a>
 <a href="https://researchmap.jp/fuku5">[researchmap]</a>
 <a href="https://x.com/fyoscke">[X]</a>
 <br>
@@ -32,10 +32,10 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 ## Current Positions
 - 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan. [[Human-computer Interaction Lab]](https://nishilab.fpark.tmu.ac.jp/)
-- 2022 Oct. - Present **Part-time Lecturer**, Nihon University, Japan.
 
 
 ## Professional Experience
+- 2022 Oct. - 2026 Mar. **Part-time Lecturer**, Nihon University, Japan.
 - 2022 Apr. - 2024 Mar. **Project Researcher**, National Institute of Informatics, Japan. [[Project page]](https://ymdsij-lab.com/tid-crest/)
 - 2021 Apr. - 2022 Mar. **Project Researcher**, Graduate School of Science and Engineering, Keio University, Japan.
 - 2019 Apr. - 2021 Mar. **Assistant Professor**, Graduate School of Science and Engineering, Keio University, Japan.
@@ -47,7 +47,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 ## Education
 - 2023 Mar. **Ph.D. in Engineering**, Graduate School of Science and Engineering, Keio University, Japan. [[thesis (in Japanese)](/phd_thesis.html)]
 - 2019 Apr. - 2022 Mar. **Finished Ph.D. program without dissertation**, Graduate School of Science and Engineering, Keio University, Japan.
-- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Conputer Science, Keio University, Japan.
+- 2017 Apr. - 2019 Mar. **Master of Engineering**, Information and Computer Science, Keio University, Japan.
 - 2013 Apr. - 2017 Mar. **Bachelor of Engineering**, Information and Computer Science, Keio University, Japan.
 
 
@@ -59,10 +59,11 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ## Activities
+- 2026 Nov. **Workshop co-organizer** ([HAI Horizons 2.0: Empowering Early-Career Researchers to Share Their Passion and Shape the Future of Human-Agent Interaction](https://sites.google.com/view/hai-horizons-2-0/home)) at the 14th International Conference on Human-Agent Interaction (HAI 2026).
 - 2026 Nov. **Workshop chair** at the 14th International Conference on Human-Agent Interaction (HAI 2026).
 - 2026 Aug. **Organized session co-organizer** ([Cognitive Dynamics of Reflection: Towards Computational Understanding of Creativity, Psychiatry, and Projection](https://pub.confit.atlas.jp/ja/event/jcss2026/session/RXWLt3RQ)) at the 43rd Annual Meeting of Japanese Cognitive Science Society (JCSS 2026).
 - 2026 Aug. **Special session co-organizer** ([Computational Cognitive Dynamics in Human-Robot/AI/Agent Interaction: Subjectivity, Context, and Bounded Rationality](/contents/roman2026-ss)) at the 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026).
-- 2026 Jun. **Organized session co-organizer** ([Human-AI Collaborative Deicision-making with Trust and Theory of Mind](https://www.ai-gakkai.or.jp/jsai2026/os/#os-4)) at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026).
+- 2026 Jun. **Organized session co-organizer** ([Human-AI Collaborative Decision-making with Trust and Theory of Mind](https://www.ai-gakkai.or.jp/jsai2026/os/#os-4)) at the 40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026).
 - 2026 Feb. **Award Co-Chair** at HAI Symposium 2026.
 - 2025 Dec. **Committee member** at CogSci Asia-Pacific Meetup Kickoff: International Conference on Cognitive Science 2025 [[Link]](https://sites.google.com/view/cogsci-asia-pacific-meetup/home).
 - 2025 Nov. **Local co-chair** at the 13th International Conference on Human-Agent Interaction (HAI 2025) [[Link]](https://hai-conference.net/hai2025/).
@@ -87,6 +88,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
+1. \cite{11690575}{[9]} (Early Access)
 1. \cite{11458024}{[9]} (Special issue on IEEE VR)
 1. \cite{11015485}{[9]}
 1. \cite{11006725}{[6]}
@@ -134,7 +136,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Abstracts, Posters
-1. \cite{kishi2026cogsci}
+1. \cite{kishi2026cogsci} (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
 1. \cite{serizawaWHC}
 1. \cite{MeetupTakao}{[4]}
 1. \cite{10.2312:egve.20241400}
@@ -150,6 +152,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Domestic conferences
+1. \cite{JSAI2026Fairness}{[]}
 1. \cite{Fukuchi2026HumanAICollaboration}{[]}
 1. \cite{Fukuchi2026FreeEnergyNeuro}{[]}
 1. \cite{Wada2026VR}{[]}
