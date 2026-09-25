@@ -14,6 +14,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
+Note: I am currently unable to accept new students.<br>
 (Last updated: <span id="last_modified_date"></span>)
 </div>
 
@@ -31,7 +32,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 <!-- Additionally, I am interested in computational modeling of human cognition in human-computer interaction by integrating Bayesian models and machine learning. -->
 
 ## Current Positions
-- 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan. [[Human-computer Interaction Lab]](https://nishilab.fpark.tmu.ac.jp/)
+- 2024 Apr. - Present **Assistant Professor**, Tokyo Metropolitan University, Japan.
 
 
 ## Professional Experience
