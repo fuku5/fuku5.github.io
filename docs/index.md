@@ -14,7 +14,7 @@
 <div style="text-align: right;">
 Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University, Japan.<br>
 Email: fukuchi (at) tmu.ac.jp <br>
-Note: I am currently unable to accept new students.<br>
+(Unable to accept new students.)<br>
 (Last updated: <span id="last_modified_date"></span>)
 </div>
 
