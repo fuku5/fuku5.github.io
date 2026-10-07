@@ -89,7 +89,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 -->
 <div class="bibtex-citation-block" style="visibility: hidden;" markdown="1">
 ### Journal
-1. \cite{11690575}{[9]} (Early Access)
+1. \cite{11690575}{[9]}
 1. \cite{11458024}{[9]} (Special issue on IEEE VR)
 1. \cite{11015485}{[9]}
 1. \cite{11006725}{[6]}
@@ -155,6 +155,8 @@ Particularly, I create AI systems/agents/interfaces that involve
 
 
 ### Domestic conferences
+1. \cite{Saechueng2026Earprint}{[]}
+1. \cite{Piboonsin2026WriterIdentification}{[]}
 1. \cite{JCSS2026ReflectionScience}{[4]}
 1. \cite{JSAI2026Fairness}{[]}
 1. \cite{Fukuchi2026HumanAICollaboration}{[]}
