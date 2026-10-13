@@ -104,7 +104,7 @@ Particularly, I create AI systems/agents/interfaces that involve
 ### Conferences (Refereed)
 1. \cite{mizutani2026brightness}{[]}
 1. \cite{tanaka2026heuristic}{[2]}
-1. \cite{fukuchi2026personalityAwareGuidance}{[0,1,4]} (In press)
+1. \cite{fukuchi2026personalityAwareGuidance}{[0,1,4]} [PDF](https://drive.google.com/file/d/1tiw08Tqyk1KX6azzuP6mIzZ7inw-Xjd-/view?usp=sharing)
 1. \cite{fukuchi2026fexplorer}{[4]} [PDF](/files/fukuchi2026fexplorer.pdf) (**Japanese Cognitive Science Society International Conference Presentation Grant for Early-Career Researchers**)
 1. \cite{hri2026}{[4,5]}
 1. \cite{NattamonKST2026}{[9]}
